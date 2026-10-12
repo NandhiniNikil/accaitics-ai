@@ -1,0 +1,789 @@
+transaction_id,date,description,amount,txn_type,category,payment_method,vendor
+TXN10042,2025-04-01,Delivery charges AWB 1179,9500.24,Expense,Shipping & Freight,UPI,BlueDart Express
+TXN10040,2025-04-01,Facebook ads billing 43407,6375.25,Expense,Marketing & Advertising,Cheque,Google Ads
+TXN10051,2025-04-01,Petrol reimbursement 25235,2559.75,Expense,Travel & Fuel,Credit Card,
+TXN10002,2025-04-02,Sales invoice INV3002 - Bharat Textiles,40116.35,Income,Sales Revenue,Bank Transfer,
+TXN10059,2025-04-02,AMC and maintenance 2283,1238.59,Expense,Repairs & Maintenance,UPI,
+TXN10007,2025-04-02,Sales invoice INV3007 - Chola Hardware,7595.85,Income,Sales Revenue,Bank Transfer,
+TXN10058,2025-04-03,MACHINE REPAIR CHRGS 52143,936.69,Expense,Repairs & Maintenance,Bank Transfer,Ravi Electricals
+TXN10030,2025-04-03,Sales invoice INV3030 - Bharat Textiles,3217.69,Income,Sales Revenue,Cheque,
+TXN10056,2025-04-03,Electrical repair work 89480,6396.99,Expense,Repairs & Maintenance,Credit Card,
+TXN10004,2025-04-04,Sales invoice INV3004 - Ganga Motors,62199.79,Income,Sales Revenue,Bank Transfer,
+TXN10057,2025-04-04,electrical repair work 91590,1994.93,Expense,Repairs & Maintenance,Bank Transfer,Ravi Electricals
+TXN10006,2025-04-06,Sales invoice INV3006 - Harvest Agro,34024.43,Income,Sales Revenue,UPI,
+TXN10031,2025-04-06,Stock purchase - 59140,16322.72,Expense,Cost of Goods Sold,UPI,Sri Balaji Suppliers
+TXN10014,2025-04-06,Sales invoice INV3014 - Kaveri Mills,246165.28,Income,Sales Revenue,Bank Transfer,
+TXN10033,2025-04-07,STAFF SALARY TRANSFER PAYROLL 75580,390808.09,Expense,Salaries & Wages,UPI,
+TXN10009,2025-04-08,Sales invoice INV3009 - Lotus Interiors,19886.15,Income,Sales Revenue,Bank Transfer,
+TXN10029,2025-04-09,Sales invoice INV3029 - Ganga Motors,113421.91,Income,Sales Revenue,Cheque,
+TXN10048,2025-04-10,Amazon business o,975.95,Expense,Office Supplies,UPI,Amazon Business
+TXN10008,2025-04-10,Sales invoice INV3008 - Indus Steel,108317.19,Income,Sales Revenue,UPI,
+TXN10026,2025-04-10,Sales invoice INV3026 - Bharat Textiles,123337.95,Income,Sales Revenue,UPI,
+TXN10060,2025-04-11,ca consultation charges 29318,102.03,Expense,Professional Fees,UPI,
+TXN10050,2025-04-11,Petrol reimbursement 35417,11978.45,Expense,Travel & Fuel,Bank Transfer,Indian Oil
+TXN10010,2025-04-11,Sales invoice INV3010 - Chola Hardware,34391.94,Income,Sales Revenue,Bank Transfer,
+TXN10044,2025-04-11,Delivery charges AWB 12758,15865.14,Expense,Shipping & Freight,UPI,Chennai Freight Lines
+TXN10053,2025-04-12,Loan EMI interest portion 92456,246.59,Expense,Bank Charges & Interest,UPI,ICICI Bank
+TXN10054,2025-04-12,Bank charges and interest 33905,12418.8,Expense,Bank Charges & Interest,Bank Transfer,ICICI Bank
+TXN10041,2025-04-12,Facebook ads billing 52803,28416.32,Expense,Marketing & Advertising,Credit Card,Meta Platforms
+TXN10017,2025-04-12,Sales invoice INV3017 - Chola Hardware,21670.66,Income,Sales Revenue,Bank Transfer,
+TXN10037,2025-04-13,EB bill service no 42570,5673.16,Expense,Utilities,Bank Transfer,Airtel Business
+TXN10001,2025-04-13,Sales invoice INV3001 - Indus Steel,101253.4,Income,Sales Revenue,Bank Transfer,
+TXN10062,2025-04-14,Legal and professional fee 56077,246.42,Expense,Professional Fees,UPI,
+TXN10018,2025-04-14,Sales invoice INV3018 - Indus Steel,37657.46,Income,Sales Revenue,Bank Transfer,
+TXN10015,2025-04-15,Sales invoice INV3015 - Everest Foods,20394.9,Income,Sales Revenue,UPI,
+TXN10024,2025-04-16,Sales invoice INV3024 - Harvest Agro,57896.48,Income,Sales Revenue,Bank Transfer,
+TXN10039,2025-04-16,Google Ads spend 54783,9614.43,Expense,Marketing & Advertising,Bank Transfer,Meta Platforms
+TXN10063,2025-04-17,AUDIT FEES PAYMENT 45633,8253.01,Expense,Professional Fees,Cash,
+TXN10022,2025-04-19,Sales invoice INV3022 - Bharat Textiles,20622.48,Income,Sales Revenue,Bank Transfer,
+TXN10049,2025-04-20,PETROL REIMBURSEMENT 70651,3589.64,Expense,Travel & Fuel,Bank Transfer,Indian Oil
+TXN10027,2025-04-20,Sales invoice INV3027 - Kaveri Mills,138132.7,Income,Sales Revenue,Bank Transfer,
+TXN10061,2025-04-20,Legal and professional fee 47691,428.88,Expense,Professional Fees,Bank Transfer,
+TXN10025,2025-04-21,Sales invoice INV3025 - Harvest Agro,53249.91,Income,Sales Revenue,Bank Transfer,
+TXN10052,2025-04-21,adjustment entry 89549,15166.15,Expense,Insurance,Bank Transfer,HDFC Ergo
+TXN10038,2025-04-22,Google Ads spend 28236,12545.56,Expense,Marketing & Advertising,UPI,Meta Platforms
+TXN10035,2025-04-22,Electricity bill payment 25086,1338.13,Expense,Utilities,Bank Transfer,Airtel Business
+TXN10045,2025-04-22,ZOHO SUBSCR RENEWAL,24541.57,Expense,Software & Subscriptions,Bank Transfer,Microsoft India
+TXN10047,2025-04-23,Printing and stationery 54497,4720.08,Expense,Office Supplies,UPI,Amazon Business
+TXN10036,2025-04-23,Internet and phone bill 97180,11441.8,Expense,Utilities,Bank Transfer,Airtel Business
+TXN10046,2025-04-24,PRINTING & STATIONERY 24728,4919.66,Expense,Office Supplies,Bank Transfer,Kumar Stationery
+TXN10013,2025-04-24,Sales invoice INV3013 - Lotus Interiors,11429.1,Income,Sales Revenue,Bank Transfer,
+TXN10043,2025-04-24,Transport charges LR 24886,19662.57,Expense,Shipping & Freight,Cheque,Delhivery
+TXN10034,2025-04-24,Office rent for the month,66819.36,Expense,Rent,Bank Transfer,Perundurai Rentals
+TXN10016,2025-04-24,Sales invoice INV3016 - Chola Hardware,83629.66,Income,Sales Revenue,Cheque,
+TXN10005,2025-04-25,Sales invoice INV3005 - Anand Enterprises,27165.94,Income,Sales Revenue,Bank Transfer,
+TXN90007,2025-04-25,Internet and phone bill 97180,11441.8,Expense,Utilities,Bank Transfer,Airtel Business
+TXN10012,2025-04-25,Sales invoice INV3012 - Indus Steel,34494.97,Income,Sales Revenue,Bank Transfer,
+TXN10011,2025-04-25,Sales invoice INV3011 - Harvest Agro,158485.19,Income,Sales Revenue,Bank Transfer,
+TXN10020,2025-04-26,Sales invoice INV3020 - Indus Steel,20911.53,Income,Sales Revenue,Bank Transfer,
+TXN10019,2025-04-26,Sales invoice INV3019 - Anand Enterprises,102523.71,Income,Sales Revenue,Bank Transfer,
+TXN10028,2025-04-28,Sales invoice INV3028 - Kaveri Mills,11132.11,Income,Sales Revenue,Cheque,
+TXN10021,2025-04-28,Sales invoice INV3021 - Ganga Motors,50941.08,Income,Sales Revenue,Bank Transfer,
+TXN10023,2025-04-29,Sales invoice INV3023 - Everest Foods,17864.9,Income,Sales Revenue,UPI,
+TXN10032,2025-04-30,RM purchase bill no 29332,867046.3,Expense,Cost of Goods Sold,UPI,Sri Balaji Suppliers
+TXN10003,2025-04-30,Sales invoice INV3003 - Deccan Logistics,52911.9,Income,Sales Revenue,UPI,
+TXN10095,2025-05-01,Power charges 61311,9413.61,Expense,Utilities,Bank Transfer,TNEB
+TXN10083,2025-05-01,Sales invoice INV3083 - Ganga Motors,135879.25,Income,Sales Revenue,UPI,
+TXN10090,2025-05-02,Staff salary transfer payroll 34208,384311.23,Expense,Salaries & Wages,Bank Transfer,
+TXN10065,2025-05-02,Sales invoice INV3065 - Indus Steel,132794.54,Income,Sales Revenue,Bank Transfer,
+TXN10064,2025-05-03,Sales invoice INV3064 - Kaveri Mills,105905.75,Income,Sales Revenue,Bank Transfer,
+TXN10079,2025-05-03,Sales invoice INV3079 - Indus Steel,56271.69,Income,Sales Revenue,Cheque,
+TXN10055,2025-05-04,AMC and maintenance 10167,6572.61,Expense,Repairs & Maintenance,UPI,Ravi Electricals
+TXN10102,2025-05-04,Tally AMC renewal 35064,24277.03,Expense,Software & Subscriptions,Cash,Zoho Corp
+TXN10106,2025-05-04,Petrol reimbursement 91662,4318.76,Expense,Travel & Fuel,Bank Transfer,
+TXN10066,2025-05-04,Sales invoice INV3066 - Anand Enterprises,6778.75,Income,Sales Revenue,UPI,
+TXN10105,2025-05-04,Diesel purchase vehicle 72857,3273.95,Expense,Travel & Fuel,UPI,Indian Oil
+TXN10070,2025-05-05,Sales invoice INV3070 - Indus Steel,94061.68,Income,Sales Revenue,Bank Transfer,
+TXN10081,2025-05-05,Sales invoice INV3081 - Bharat Textiles,122733.64,Income,Sales Revenue,Bank Transfer,
+TXN10093,2025-05-05,Electricity bill payment 9823,1583.38,Expense,Utilities,UPI,TNEB
+TXN10096,2025-05-07,other charges,44850.7,Expense,Marketing & Advertising,Cash,Meta Platforms
+TXN10092,2025-05-07,misc expenses,1600.19,Expense,Utilities,Bank Transfer,TNEB
+TXN10077,2025-05-08,Sales invoice INV3077 - Kaveri Mills,92364.54,Income,Sales Revenue,Bank Transfer,
+TXN10082,2025-05-08,Sales invoice INV3082 - Ganga Motors,196414.18,Income,Sales Revenue,Bank Transfer,
+TXN10087,2025-05-09,Sales invoice INV3087 - Anand Enterprises,79633.24,Income,Sales Revenue,Bank Transfer,
+TXN10127,2025-05-10,Audit fees payment 36382,15547.14,Expense,Professional Fees,Cheque,
+TXN10119,2025-05-10,MACHINE REPAIR CHARGES 54545,778.02,Expense,Repairs & Maintenance,UPI,Ravi Electricals
+TXN10101,2025-05-11,Delivery charges AWB 88034,7292.31,Expense,Shipping & Freight,Cheque,Chennai Freight Lines
+TXN10080,2025-05-11,Sales invoice INV3080 - Deccan Logistics,23389.9,Income,Sales Revenue,Cheque,
+TXN10115,2025-05-11,BANK CHARGES & INTEREST 34009,3312.12,Expense,Bank Charges & Interest,Bank Transfer,ICICI Bank
+TXN10099,2025-05-11,Delivery charges AWB 92535,16014.06,Expense,Shipping & Freight,Cheque,Chennai Freight Lines
+TXN10076,2025-05-12,Sales invoice INV3076 - Everest Foods,3485.38,Income,Sales Revenue,Bank Transfer,
+TXN10072,2025-05-12,Sales invoice INV3072 - Bharat Textiles,13280.6,Income,Sales Revenue,Bank Transfer,
+TXN10100,2025-05-12,Courier charg,16305.67,Expense,Shipping & Freight,UPI,Delhivery
+TXN10097,2025-05-13,Instagram campaign spend,13399.02,Expense,Marketing & Advertising,UPI,Google Ads
+TXN10068,2025-05-13,Sales invoice INV3068 - Kaveri Mills,10463.69,Income,Sales Revenue,UPI,
+TXN10124,2025-05-13,Legal and professional fee 6138,32254.46,Expense,Professional Fees,Credit Card,
+TXN10085,2025-05-13,Sales invoice INV3085 - Everest Foods,61295.51,Income,Sales Revenue,Bank Transfer,
+TXN10084,2025-05-13,Sales invoice INV3084 - Anand Enterprises,29161.93,Income,Sales Revenue,Cheque,
+TXN10121,2025-05-13,Electrical repair work 43061,249.95,Expense,Repairs & Maintenance,UPI,
+TXN10086,2025-05-14,Sales invoice INV3086 - Ganga Motors,27747.16,Income,Sales Revenue,UPI,
+TXN10104,2025-05-14,amazon business order 26135,3350.87,Expense,Office Supplies,UPI,Amazon Business
+TXN10112,2025-05-15,Bank charges and interest 11297,1664.21,Expense,Bank Charges & Interest,UPI,ICICI Bank
+TXN10088,2025-05-15,Stock purchase - 80780,514944.07,Expense,Cost of Goods Sold,UPI,Reliance Wholesale
+TXN10116,2025-05-15,Processing fee 82833,1148.1,Expense,Bank Charges & Interest,Bank Transfer,ICICI Bank
+TXN10110,2025-05-15,DIESEL PURCHASE VEHICLE 4334,2418.2,Expense,Travel & Fuel,Bank Transfer,Indian Oil
+TXN10107,2025-05-16,Diesel purchase ve,918.1,Expense,Travel & Fuel,Credit Card,Indian Oil
+TXN10114,2025-05-16,Loan EMI interest portion 20972,1769.88,Expense,Bank Charges & Interest,Cheque,ICICI Bank
+TXN10126,2025-05-18,audit fees pymt 80040,4006.91,Expense,Professional Fees,Cheque,
+TXN10122,2025-05-20,Machine repair charges 79341,4571.09,Expense,Repairs & Maintenance,Cheque,
+TXN10071,2025-05-22,Sales invoice INV3071 - Chola Hardware,162642.59,Income,Sales Revenue,Bank Transfer,
+TXN90002,2025-05-22,Machine repair charges 79341,4571.09,Expense,Repairs & Maintenance,Cheque,
+TXN10108,2025-05-22,TRAVEL EXPENSES 89430,5011.87,Expense,Travel & Fuel,Credit Card,
+TXN10074,2025-05-22,Sales invoice INV3074 - Anand Enterprises,18106.13,Income,Sales Revenue,Bank Transfer,
+TXN10109,2025-05-22,DIESEL PUR VEHICLE 4458,2147.04,Expense,Travel & Fuel,UPI,
+TXN10067,2025-05-23,Sales invoice INV3067 - Harvest Agro,24118.39,Income,Sales Revenue,Cheque,
+TXN10120,2025-05-23,Machine repair charges 19657,276.69,Expense,Repairs & Maintenance,Bank Transfer,
+TXN10118,2025-05-23,Machine repair charges 42488,4030.53,Expense,Repairs & Maintenance,Cheque,
+TXN10111,2025-05-23,Insurance premium payment 27489,15171.1,Expense,Insurance,Bank Transfer,HDFC Ergo
+TXN10069,2025-05-24,Sales invoice INV3069 - Harvest Agro,13827.18,Income,Sales Revenue,Bank Transfer,
+TXN10089,2025-05-24,Raw material bill 93316,177776.9,Expense,Cost of Goods Sold,Bank Transfer,Reliance Wholesale
+TXN10123,2025-05-25,AMC and maintenance 8343,918.26,Expense,Repairs & Maintenance,Bank Transfer,Ravi Electricals
+TXN10125,2025-05-25,CA consultation charges 43528,827.35,Expense,Professional Fees,UPI,
+TXN10078,2025-05-25,Sales invoice INV3078 - Deccan Logistics,279075.5,Income,Sales Revenue,UPI,
+TXN10075,2025-05-25,Sales invoice INV3075 - Anand Enterprises,41101.87,Income,Sales Revenue,Cheque,
+TXN10113,2025-05-26,Bank charges and interest 18568,1952.94,Expense,Bank Charges & Interest,Bank Transfer,ICICI Bank
+TXN10094,2025-05-26,other charges,8245.94,Expense,Utilities,Credit Card,Airtel Business
+TXN10117,2025-05-26,Loan EMI interest portion 96106,1272.15,Expense,Bank Charges & Interest,UPI,ICICI Bank
+TXN10098,2025-05-29,Instagram campaign spend,15041.36,Expense,Marketing & Advertising,UPI,Meta Platforms
+TXN10091,2025-05-29,adjustment entry 41555,68247.68,Expense,Rent,Credit Card,Perundurai Rentals
+TXN10103,2025-05-30,AMAZON BUSINESS ORDER 42072,3833.23,Expense,Office Supplies,Cheque,Amazon Business
+TXN90001,2025-05-30,AMAZON BUSINESS ORDER 42072,3833.23,Expense,Office Supplies,Cheque,Amazon Business
+TXN10073,2025-05-31,Sales invoice INV3073 - Chola Hardware,18456.83,Income,Sales Revenue,Cheque,
+TXN10136,2025-06-02,Sales invoice INV3136 - Indus Steel,110156.93,Income,Sales Revenue,Bank Transfer,
+TXN10138,2025-06-02,Sales invoice INV3138 - Indus Steel,104626.85,Income,Sales Revenue,Cheque,
+TXN10165,2025-06-03,Google Ads spend 42297,20413.36,Expense,Marketing & Advertising,UPI,Google Ads
+TXN10178,2025-06-03,diesel pur vehicle 34910,7130.33,Expense,Travel & Fuel,UPI,
+TXN10132,2025-06-03,Sales invoice INV3132 - Deccan Logistics,80621.54,Income,Sales Revenue,Bank Transfer,
+TXN10182,2025-06-03,Petrol reimbursement 84695,918.48,Expense,Travel & Fuel,Bank Transfer,
+TXN10148,2025-06-04,Sales invoice INV3148 - Everest Foods,115352.11,Income,Sales Revenue,Bank Transfer,
+TXN10174,2025-06-05,Office supplies pur,3751.5,Expense,Office Supplies,Credit Card,Kumar Stationery
+TXN10145,2025-06-06,Sales invoice INV3145 - Harvest Agro,47809.02,Income,Sales Revenue,Bank Transfer,
+TXN10141,2025-06-06,Sales invoice INV3141 - Lotus Interiors,63033.77,Income,Sales Revenue,Cheque,
+TXN10133,2025-06-07,Sales invoice INV3133 - Chola Hardware,51481.1,Income,Sales Revenue,Cheque,
+TXN10192,2025-06-07,Audit fees payment 70513,2691.77,Expense,Professional Fees,UPI,
+TXN10184,2025-06-07,Processing fee 15129,9788.78,Expense,Bank Charges & Interest,Bank Transfer,ICICI Bank
+TXN10170,2025-06-07,Transport charges LR 45496,661.22,Expense,Shipping & Freight,Bank Transfer,BlueDart Express
+TXN10147,2025-06-08,Sales invoice INV3147 - Anand Enterprises,26486.99,Income,Sales Revenue,Bank Transfer,
+TXN10189,2025-06-08,Electrical repair work 25069,2057.11,Expense,Repairs & Maintenance,UPI,Ravi Electricals
+TXN10134,2025-06-10,Sales invoice INV3134 - Everest Foods,11273.08,Income,Sales Revenue,Bank Transfer,
+TXN10175,2025-06-10,Printing and stationery 13509,1713.95,Expense,Office Supplies,Bank Transfer,Kumar Stationery
+TXN10143,2025-06-10,Sales invoice INV3143 - Lotus Interiors,88649.83,Income,Sales Revenue,Bank Transfer,
+TXN10171,2025-06-11,DELIVERY CHRGS AWB 45747,6994.74,Expense,Shipping & Freight,UPI,Chennai Freight Lines
+TXN10157,2025-06-11,Monthly rent premises,70355.51,Expense,Rent,Bank Transfer,Perundurai Rentals
+TXN10131,2025-06-12,Sales invoice INV3131 - Bharat Textiles,66089.44,Income,Sales Revenue,UPI,
+TXN10195,2025-06-13,Audit fees payment 45161,604.66,Expense,Professional Fees,UPI,
+TXN10167,2025-06-13,Delivery charges AWB 85733,23398.37,Expense,Shipping & Freight,Bank Transfer,Delhivery
+TXN10154,2025-06-14,cash payment 37980,69980.92,Expense,Cost of Goods Sold,UPI,Sri Balaji Suppliers
+TXN10191,2025-06-14,MACHINE REPAIR CHARGES 47683,371.47,Expense,Repairs & Maintenance,UPI,Ravi Electricals
+TXN10158,2025-06-15,EB bill service no 2834,6172.17,Expense,Utilities,Credit Card,Airtel Business
+TXN10150,2025-06-15,Sales invoice INV3150 - Anand Enterprises,60561.97,Income,Sales Revenue,Bank Transfer,
+TXN10135,2025-06-16,Sales invoice INV3135 - Kaveri Mills,49794.47,Income,Sales Revenue,Cheque,
+TXN10162,2025-06-16,PPC ad spend - 58688,31022.88,Expense,Marketing & Advertising,Cheque,Google Ads
+TXN10128,2025-06-16,Sales invoice INV3128 - Deccan Logistics,222864.89,Income,Sales Revenue,Cheque,
+TXN10152,2025-06-16,Sales invoice INV3152 - Everest Foods,5494.2,Income,Sales Revenue,Bank Transfer,
+TXN10153,2025-06-17,RM purchase bill no 22276,402015.9,Expense,Cost of Goods Sold,Credit Card,Sri Balaji Suppliers
+TXN10140,2025-06-17,Sales invoice INV3140 - Everest Foods,84462.72,Income,Sales Revenue,Cheque,
+TXN10159,2025-06-17,EB bill service no 15628,6886.53,Expense,Utilities,Bank Transfer,Airtel Business
+TXN10169,2025-06-17,Freight outward bill 59635,2525.0,Expense,Shipping & Freight,Bank Transfer,BlueDart Express
+TXN10156,2025-06-18,staff salary transfer,381583.38,Expense,Salaries & Wages,Bank Transfer,
+TXN10187,2025-06-18,Machine repair charges 6012,4659.51,Expense,Repairs & Maintenance,Bank Transfer,
+TXN10129,2025-06-18,Sales invoice INV3129 - Ganga Motors,182367.52,Income,Sales Revenue,Bank Transfer,
+TXN10196,2025-06-18,Legal and professional fee 92429,568.78,Expense,Professional Fees,Bank Transfer,
+TXN10173,2025-06-19,Office supplies pur,3294.55,Expense,Office Supplies,UPI,Amazon Business
+TXN10176,2025-06-19,office supplies purchase 88629,1943.54,Expense,Office Supplies,Cheque,Amazon Business
+TXN10190,2025-06-20,Electrical repair work 51972,3523.43,Expense,Repairs & Maintenance,UPI,Ravi Electricals
+TXN10181,2025-06-20,petrol reimbursement 38509,1513.81,Expense,Travel & Fuel,Cheque,Indian Oil
+TXN10194,2025-06-21,Audit fees paym,1870.26,Expense,Professional Fees,Bank Transfer,
+TXN10139,2025-06-21,Sales invoice INV3139 - Kaveri Mills,109069.34,Income,Sales Revenue,Bank Transfer,
+TXN10183,2025-06-22,Insurance premium payment 26685,15009.67,Expense,Insurance,Bank Transfer,HDFC Ergo
+TXN10179,2025-06-23,DIESEL PUR VEHICLE 42105,4079.39,Expense,Travel & Fuel,Credit Card,Indian Oil
+TXN10142,2025-06-23,Sales invoice INV3142 - Chola Hardware,73984.57,Income,Sales Revenue,Cheque,
+TXN10164,2025-06-23,Google Ads spend 35902,7831.37,Expense,Marketing & Advertising,Bank Transfer,Meta Platforms
+TXN10177,2025-06-23,Amazon business order 28596,2297.57,Expense,Office Supplies,Cheque,Kumar Stationery
+TXN10193,2025-06-24,Audit fees payment 3390,2824.83,Expense,Professional Fees,Cheque,
+TXN10149,2025-06-24,Sales invoice INV3149 - Chola Hardware,6764.66,Income,Sales Revenue,Bank Transfer,
+TXN10163,2025-06-25,GOOGLE ADS SPEND 6020,5851.56,Expense,Marketing & Advertising,Cash,Google Ads
+TXN10160,2025-06-25,Internet and phone,8867.69,Expense,Utilities,Cash,Airtel Business
+TXN10130,2025-06-26,Sales invoice INV3130 - Everest Foods,94600.0,Income,Sales Revenue,Bank Transfer,
+TXN10144,2025-06-26,Sales invoice INV3144 - Bharat Textiles,115383.13,Income,Sales Revenue,Cheque,
+TXN10146,2025-06-26,Sales invoice INV3146 - Lotus Interiors,41994.09,Income,Sales Revenue,Bank Transfer,
+TXN10172,2025-06-27,ZOHO SUBSCR RENEWAL,23982.28,Expense,Software & Subscriptions,Bank Transfer,Microsoft India
+TXN10137,2025-06-27,Sales invoice INV3137 - Anand Enterprises,26139.99,Income,Sales Revenue,UPI,
+TXN10155,2025-06-27,Purchase of raw material inv 28382,445553.99,Expense,Cost of Goods Sold,UPI,Coimbatore Traders
+TXN10188,2025-06-28,AMC and maintenance 85930,529.41,Expense,Repairs & Maintenance,UPI,Ravi Electricals
+TXN10186,2025-06-28,Machine repair chrgs 29736,15.69,Expense,Repairs & Maintenance,UPI,Ravi Electricals
+TXN10180,2025-06-28,Fuel expenses for the,2327.88,Expense,Travel & Fuel,UPI,Indian Oil
+TXN10166,2025-06-28,Google Ads spend 2618,2555.57,Expense,Marketing & Advertising,Credit Card,Meta Platforms
+TXN10168,2025-06-28,Delivery charges AWB 16769,15524.24,Expense,Shipping & Freight,UPI,BlueDart Express
+TXN10185,2025-06-29,Loan EMI interest portion 29729,3160.8,Expense,Bank Charges & Interest,Bank Transfer,ICICI Bank
+TXN10161,2025-06-29,Instagram campaign spend,1882.89,Expense,Marketing & Advertising,UPI,Google Ads
+TXN10151,2025-06-30,Sales invoice INV3151 - Lotus Interiors,41270.09,Income,Sales Revenue,Bank Transfer,
+TXN10232,2025-07-01,Stationery and consumables 27165,710.7,Expense,Office Supplies,Credit Card,Kumar Stationery
+TXN10251,2025-07-01,CA consultation charges 71079,1700.32,Expense,Professional Fees,Cheque,
+TXN10248,2025-07-01,machine repair charges 60829,6316.86,Expense,Repairs & Maintenance,Bank Transfer,Ravi Electricals
+TXN10205,2025-07-01,Sales invoice INV3205 - Bharat Textiles,18366.54,Income,Sales Revenue,Bank Transfer,
+TXN10254,2025-07-01,Legal and professional fee 67630,4331.46,Expense,Professional Fees,UPI,
+TXN10213,2025-07-02,Sales invoice INV3213 - Everest Foods,156545.67,Income,Sales Revenue,Bank Transfer,
+TXN10216,2025-07-02,Sales invoice INV3216 - Bharat Textiles,37493.0,Income,Sales Revenue,Bank Transfer,
+TXN10231,2025-07-02,Zoho subscription renewal,24403.78,Expense,Software & Subscriptions,Bank Transfer,Zoho Corp
+TXN10199,2025-07-03,Sales invoice INV3199 - Harvest Agro,295928.45,Income,Sales Revenue,Bank Transfer,
+TXN10220,2025-07-04,Raw material b,224884.03,Expense,Cost of Goods Sold,Cheque,Reliance Wholesale
+TXN10233,2025-07-04,Amazon business order 71181,5255.02,Expense,Office Supplies,Bank Transfer,Kumar Stationery
+TXN10243,2025-07-05,Loan EMI interest portion 38641,2268.26,Expense,Bank Charges & Interest,Bank Transfer,ICICI Bank
+TXN10197,2025-07-05,Sales invoice INV3197 - Deccan Logistics,82196.42,Income,Sales Revenue,UPI,
+TXN10247,2025-07-05,Machine repair charges 78350,1658.88,Expense,Repairs & Maintenance,UPI,
+TXN10224,2025-07-06,general expenses,18232.16,Expense,Utilities,Cheque,TNEB
+TXN10229,2025-07-07,Delivery charges AWB 88267,25260.32,Expense,Shipping & Freight,Bank Transfer,Delhivery
+TXN10212,2025-07-07,Sales invoice INV3212 - Lotus Interiors,109408.25,Income,Sales Revenue,Bank Transfer,
+TXN10223,2025-07-08,Office rent for the month,68930.1,Expense,Rent,Bank Transfer,Perundurai Rentals
+TXN10238,2025-07-08,fuel exp for the month 58581,7040.09,Expense,Travel & Fuel,Cheque,
+TXN10250,2025-07-09,MACHINE REPAIR CHRGS 1138,2341.81,Expense,Repairs & Maintenance,Bank Transfer,
+TXN10236,2025-07-09,PETROL REIMBURSEMENT 25838,1788.13,Expense,Travel & Fuel,UPI,Indian Oil
+TXN10227,2025-07-09,Instagram campa,28717.57,Expense,Marketing & Advertising,Credit Card,Meta Platforms
+TXN10215,2025-07-11,Sales invoice INV3215 - Lotus Interiors,145706.23,Income,Sales Revenue,Cheque,
+TXN10211,2025-07-12,Sales invoice INV3211 - Everest Foods,72125.5,Income,Sales Revenue,Bank Transfer,
+TXN10240,2025-07-12,Fire and burglary policy premium,15079.24,Expense,Insurance,Bank Transfer,HDFC Ergo
+TXN10246,2025-07-12,Machine repair charges 49433,1531.04,Expense,Repairs & Maintenance,UPI,Ravi Electricals
+TXN10214,2025-07-13,Sales invoice INV3214 - Kaveri Mills,40232.52,Income,Sales Revenue,UPI,
+TXN10206,2025-07-13,Sales invoice INV3206 - Kaveri Mills,15350.01,Income,Sales Revenue,Cheque,
+TXN10198,2025-07-13,Sales invoice INV3198 - Everest Foods,1516.03,Income,Sales Revenue,Bank Transfer,
+TXN10237,2025-07-15,Petrol reimbursement 65696,557.37,Expense,Travel & Fuel,Bank Transfer,Indian Oil
+TXN10208,2025-07-15,Sales invoice INV3208 - Ganga Motors,122484.32,Income,Sales Revenue,UPI,
+TXN10207,2025-07-16,Sales invoice INV3207 - Everest Foods,134056.89,Income,Sales Revenue,Bank Transfer,
+TXN10235,2025-07-16,other charges,6718.02,Expense,Travel & Fuel,Cheque,Indian Oil
+TXN10244,2025-07-19,Processing fee 2072,1139.49,Expense,Bank Charges & Interest,Credit Card,ICICI Bank
+TXN10200,2025-07-19,Sales invoice INV3200 - Lotus Interiors,44421.38,Income,Sales Revenue,Cheque,
+TXN10217,2025-07-19,Sales invoice INV3217 - Lotus Interiors,103648.38,Income,Sales Revenue,Cheque,
+TXN10210,2025-07-20,Sales invoice INV3210 - Bharat Textiles,36353.6,Income,Sales Revenue,Bank Transfer,
+TXN10252,2025-07-21,Legal and professional fee 14413,3687.38,Expense,Professional Fees,Bank Transfer,
+TXN10225,2025-07-21,Electricity bill payment 97750,177.55,Expense,Utilities,Bank Transfer,TNEB
+TXN10201,2025-07-22,Sales invoice INV3201 - Ganga Motors,338323.38,Income,Sales Revenue,Bank Transfer,
+TXN10253,2025-07-22,Legal and professional fee 88588,1175.01,Expense,Professional Fees,Bank Transfer,
+TXN10204,2025-07-22,Sales invoice INV3204 - Indus Steel,44657.79,Income,Sales Revenue,Cheque,
+TXN10222,2025-07-23,Salary payment for the month,386746.47,Expense,Salaries & Wages,Cash,
+TXN10218,2025-07-23,Sales invoice INV3218 - Anand Enterprises,56735.98,Income,Sales Revenue,Cheque,
+TXN90006,2025-07-23,Legal and professional fee 88588,1175.01,Expense,Professional Fees,Bank Transfer,
+TXN10209,2025-07-24,Sales invoice INV3209 - Kaveri Mills,35341.93,Income,Sales Revenue,Bank Transfer,
+TXN10234,2025-07-24,Amazon business order 44212,4020.77,Expense,Office Supplies,UPI,Kumar Stationery
+TXN10245,2025-07-25,Loan EMI interest portion 96792,6947.83,Expense,Bank Charges & Interest,UPI,ICICI Bank
+TXN10239,2025-07-26,Petrol reimbursement 81962,3541.74,Expense,Travel & Fuel,Bank Transfer,Indian Oil
+TXN10221,2025-07-26,Raw material bill 50457,348367.26,Expense,Cost of Goods Sold,Credit Card,Reliance Wholesale
+TXN10219,2025-07-26,Goods inward GRN 18614,323920.7,Expense,Cost of Goods Sold,Bank Transfer,Reliance Wholesale
+TXN10230,2025-07-27,Courier charg,20812.43,Expense,Shipping & Freight,UPI,Delhivery
+TXN10226,2025-07-27,Google Ads spend 76621,40695.89,Expense,Marketing & Advertising,Bank Transfer,Meta Platforms
+TXN10242,2025-07-28,bill paid,1339.88,Expense,Bank Charges & Interest,Bank Transfer,ICICI Bank
+TXN10228,2025-07-28,PPC ad spend - 56720,8452.2,Expense,Marketing & Advertising,UPI,Google Ads
+TXN10202,2025-07-28,Sales invoice INV3202 - Kaveri Mills,44759.58,Income,Sales Revenue,Bank Transfer,
+TXN10241,2025-07-29,paid to party 84713,2088.34,Expense,Bank Charges & Interest,Bank Transfer,ICICI Bank
+TXN10203,2025-07-29,Sales invoice INV3203 - Indus Steel,44178.65,Income,Sales Revenue,Bank Transfer,
+TXN10249,2025-07-31,Machine repair charges 56470,179.85,Expense,Repairs & Maintenance,UPI,
+TXN10282,2025-08-01,Sales invoice INV3282 - Anand Enterprises,2521.93,Income,Sales Revenue,Bank Transfer,
+TXN10264,2025-08-01,Sales invoice INV3264 - Indus Steel,10598.81,Income,Sales Revenue,Bank Transfer,
+TXN10267,2025-08-01,Sales invoice INV3267 - Harvest Agro,321683.99,Income,Sales Revenue,Bank Transfer,
+TXN10290,2025-08-01,Electricity bill payment 24857,3095.45,Expense,Utilities,UPI,Airtel Business
+TXN10255,2025-08-01,Sales invoice INV3255 - Lotus Interiors,100457.0,Income,Sales Revenue,Bank Transfer,
+TXN10320,2025-08-01,CA consultation charges 34282,8.36,Expense,Professional Fees,Cheque,
+TXN10300,2025-08-01,Transport charges LR 37758,754.66,Expense,Shipping & Freight,Credit Card,Chennai Freight Lines
+TXN10318,2025-08-01,Audit fees payment 66730,823.95,Expense,Professional Fees,Cash,
+TXN10262,2025-08-02,Sales invoice INV3262 - Chola Hardware,6505.23,Income,Sales Revenue,Bank Transfer,
+TXN10299,2025-08-03,Transport charges LR 41525,35393.9,Expense,Shipping & Freight,Bank Transfer,Chennai Freight Lines
+TXN10261,2025-08-04,Sales invoice INV3261 - Deccan Logistics,332463.01,Income,Sales Revenue,Bank Transfer,
+TXN10274,2025-08-04,Sales invoice INV3274 - Lotus Interiors,19039.62,Income,Sales Revenue,Bank Transfer,
+TXN10281,2025-08-04,Sales invoice INV3281 - Anand Enterprises,34452.45,Income,Sales Revenue,UPI,
+TXN10317,2025-08-06,AMC and maintenance 21863,3741.79,Expense,Repairs & Maintenance,UPI,
+TXN10260,2025-08-07,Sales invoice INV3260 - Everest Foods,171820.43,Income,Sales Revenue,Bank Transfer,
+TXN10313,2025-08-07,AMC and maintenance 98239,281.71,Expense,Repairs & Maintenance,UPI,
+TXN10265,2025-08-08,Sales invoice INV3265 - Harvest Agro,6902.37,Income,Sales Revenue,Cheque,
+TXN10314,2025-08-08,AMC and maintenance 18616,4508.13,Expense,Repairs & Maintenance,Cash,Ravi Electricals
+TXN10297,2025-08-08,PPC ad spend - 13712,34965.47,Expense,Marketing & Advertising,Cheque,Meta Platforms
+TXN10273,2025-08-09,Sales invoice INV3273 - Deccan Logistics,1340.67,Income,Sales Revenue,Cheque,
+TXN10287,2025-08-09,paid to party 36909,45331.81,Expense,Cost of Goods Sold,UPI,Reliance Wholesale
+TXN10298,2025-08-10,Transport charges LR 20379,3117.81,Expense,Shipping & Freight,UPI,Chennai Freight Lines
+TXN10315,2025-08-10,Electrical repair work 94612,1527.75,Expense,Repairs & Maintenance,Bank Transfer,Ravi Electricals
+TXN10294,2025-08-10,Instagram campaign spend,19544.89,Expense,Marketing & Advertising,Bank Transfer,Meta Platforms
+TXN10309,2025-08-11,Travel expenses 69898,3287.94,Expense,Travel & Fuel,UPI,
+TXN10302,2025-08-11,Zoho subscription renewal,24584.24,Expense,Software & Subscriptions,UPI,Microsoft India
+TXN10277,2025-08-11,Sales invoice INV3277 - Lotus Interiors,19645.29,Income,Sales Revenue,Bank Transfer,
+TXN10271,2025-08-12,Sales invoice INV3271 - Harvest Agro,9352.39,Income,Sales Revenue,UPI,
+TXN10275,2025-08-12,Sales invoice INV3275 - Anand Enterprises,9419.9,Income,Sales Revenue,Bank Transfer,
+TXN10280,2025-08-13,Sales invoice INV3280 - Lotus Interiors,85080.57,Income,Sales Revenue,UPI,
+TXN10295,2025-08-13,PPC ad spend,9571.4,Expense,Marketing & Advertising,UPI,Meta Platforms
+TXN10308,2025-08-13,Diesel purchase vehicle 50540,5042.19,Expense,Travel & Fuel,UPI,
+TXN10319,2025-08-13,Audit fees payment 54627,10218.75,Expense,Professional Fees,Bank Transfer,
+TXN10293,2025-08-13,sundry expenses,4965.13,Expense,Marketing & Advertising,Bank Transfer,Google Ads
+TXN10316,2025-08-14,AMC AND MAIN,1780.32,Expense,Repairs & Maintenance,UPI,
+TXN10279,2025-08-14,Sales invoice INV3279 - Chola Hardware,65353.59,Income,Sales Revenue,Bank Transfer,
+TXN10284,2025-08-15,rm pur bill no 38457,531681.28,Expense,Cost of Goods Sold,Bank Transfer,Coimbatore Traders
+TXN10304,2025-08-15,Office supplies purchase 71828,388.5,Expense,Office Supplies,Bank Transfer,Amazon Business
+TXN10288,2025-08-17,Staff salary transfer payroll 41081,388436.91,Expense,Salaries & Wages,UPI,
+TXN10296,2025-08-17,cash payment 63937,3973.53,Expense,Marketing & Advertising,UPI,Meta Platforms
+TXN10268,2025-08-19,Sales invoice INV3268 - Ganga Motors,27776.87,Income,Sales Revenue,UPI,
+TXN10301,2025-08-20,Courier charges 9258,21004.52,Expense,Shipping & Freight,UPI,Chennai Freight Lines
+TXN10303,2025-08-20,Stationery and consu,12067.31,Expense,Office Supplies,Cash,Amazon Business
+TXN10257,2025-08-22,Sales invoice INV3257 - Everest Foods,140794.63,Income,Sales Revenue,UPI,
+TXN10307,2025-08-22,Fuel expenses for the month 29443,304.61,Expense,Travel & Fuel,Cheque,
+TXN10311,2025-08-22,general expenses,1961.01,Expense,Bank Charges & Interest,Bank Transfer,ICICI Bank
+TXN10259,2025-08-23,Sales invoice INV3259 - Chola Hardware,20854.62,Income,Sales Revenue,UPI,
+TXN10292,2025-08-23,Internet and phone bill 81420,11242.75,Expense,Utilities,Bank Transfer,Airtel Business
+TXN10256,2025-08-24,Sales invoice INV3256 - Bharat Textiles,685.59,Income,Sales Revenue,Cheque,
+TXN10306,2025-08-24,Travel expenses 87506,20097.76,Expense,Travel & Fuel,Bank Transfer,
+TXN10291,2025-08-25,EB bill service no 16794,8519.37,Expense,Utilities,Bank Transfer,Airtel Business
+TXN10270,2025-08-25,Sales invoice INV3270 - Harvest Agro,87574.61,Income,Sales Revenue,UPI,
+TXN10272,2025-08-26,Sales invoice INV3272 - Kaveri Mills,39378.46,Income,Sales Revenue,Bank Transfer,
+TXN10305,2025-08-27,Fuel expenses for the month 27422,4551.19,Expense,Travel & Fuel,Credit Card,
+TXN10283,2025-08-27,Sales invoice INV3283 - Indus Steel,20987.11,Income,Sales Revenue,Bank Transfer,
+TXN10278,2025-08-28,Sales invoice INV3278 - Everest Foods,543.49,Income,Sales Revenue,UPI,
+TXN10286,2025-08-28,RM purchase bill no 46928,63064.11,Expense,Cost of Goods Sold,UPI,Coimbatore Traders
+TXN10289,2025-08-29,Monthly rent premises,67791.59,Expense,Rent,Bank Transfer,Perundurai Rentals
+TXN10263,2025-08-29,Sales invoice INV3263 - Anand Enterprises,50989.59,Income,Sales Revenue,Bank Transfer,
+TXN10276,2025-08-29,Sales invoice INV3276 - Deccan Logistics,62657.69,Income,Sales Revenue,Bank Transfer,
+TXN10310,2025-08-30,Insurance premium payment 50539,14918.89,Expense,Insurance,Bank Transfer,HDFC Ergo
+TXN10285,2025-08-30,Raw material bill 20400,123976.72,Expense,Cost of Goods Sold,Bank Transfer,Reliance Wholesale
+TXN10269,2025-08-30,Sales invoice INV3269 - Anand Enterprises,220360.32,Income,Sales Revenue,Bank Transfer,
+TXN10312,2025-08-30,Loan EMI interest portion 10287,14178.37,Expense,Bank Charges & Interest,Bank Transfer,ICICI Bank
+TXN10258,2025-08-31,Sales invoice INV3258 - Deccan Logistics,99902.27,Income,Sales Revenue,UPI,
+TXN10266,2025-08-31,Sales invoice INV3266 - Ganga Motors,44240.19,Income,Sales Revenue,Bank Transfer,
+TXN10322,2025-09-01,Sales invoice INV3322 - Deccan Logistics,134329.6,Income,Sales Revenue,Bank Transfer,
+TXN10332,2025-09-01,Sales invoice INV3332 - Anand Enterprises,128328.75,Income,Sales Revenue,Bank Transfer,
+TXN10328,2025-09-02,Sales invoice INV3328 - Anand Enterprises,34434.75,Income,Sales Revenue,Bank Transfer,
+TXN10367,2025-09-02,Diesel purchase vehicle 66255,12969.62,Expense,Travel & Fuel,UPI,Indian Oil
+TXN10358,2025-09-02,Freight outward,44318.14,Expense,Shipping & Freight,UPI,BlueDart Express
+TXN10333,2025-09-03,Sales invoice INV3333 - Ganga Motors,75833.21,Income,Sales Revenue,Bank Transfer,
+TXN10370,2025-09-03,Fire and burglary policy premium,15129.14,Expense,Insurance,Credit Card,HDFC Ergo
+TXN10355,2025-09-04,FACEBOOK ADS BIL,42868.12,Expense,Marketing & Advertising,Bank Transfer,Meta Platforms
+TXN10380,2025-09-05,CA CONSULTATION CHARGES 44176,7.37,Expense,Professional Fees,Bank Transfer,
+TXN10375,2025-09-05,Bank charges and interest 13299,4980.73,Expense,Bank Charges & Interest,Cash,ICICI Bank
+TXN10350,2025-09-05,EB bill service no 12308,7302.76,Expense,Utilities,Bank Transfer,Airtel Business
+TXN10366,2025-09-05,Stationery and consumables 3982,3775.05,Expense,Office Supplies,UPI,Kumar Stationery
+TXN10337,2025-09-06,Sales invoice INV3337 - Harvest Agro,15092.85,Income,Sales Revenue,Cheque,
+TXN10378,2025-09-07,AMC & MAINT 26033,4380.02,Expense,Repairs & Maintenance,Bank Transfer,Ravi Electricals
+TXN10343,2025-09-08,Sales invoice INV3343 - Harvest Agro,345651.52,Income,Sales Revenue,Bank Transfer,
+TXN10335,2025-09-09,Sales invoice INV3335 - Ganga Motors,497.55,Income,Sales Revenue,Bank Transfer,
+TXN10342,2025-09-09,Sales invoice INV3342 - Indus Steel,60102.02,Income,Sales Revenue,UPI,
+TXN10345,2025-09-09,raw matl bl 82659,231035.53,Expense,Cost of Goods Sold,Credit Card,Coimbatore Traders
+TXN10344,2025-09-09,Sales invoice INV3344 - Ganga Motors,161582.19,Income,Sales Revenue,Bank Transfer,
+TXN10373,2025-09-09,Loan EMI interest portion 50698,2144.34,Expense,Bank Charges & Interest,Bank Transfer,ICICI Bank
+TXN10382,2025-09-09,ca consultation chrgs 94045,2882.3,Expense,Professional Fees,Bank Transfer,
+TXN10362,2025-09-09,Zoho subscription renewal,25032.93,Expense,Software & Subscriptions,Cheque,Zoho Corp
+TXN10361,2025-09-10,Courier charges 21360,57.7,Expense,Shipping & Freight,Bank Transfer,BlueDart Express
+TXN10341,2025-09-10,Sales invoice INV3341 - Kaveri Mills,1034.41,Income,Sales Revenue,Bank Transfer,
+TXN10359,2025-09-10,Freight outward bl 38882,9043.19,Expense,Shipping & Freight,UPI,BlueDart Express
+TXN10340,2025-09-11,Sales invoice INV3340 - Harvest Agro,78068.12,Income,Sales Revenue,UPI,
+TXN10372,2025-09-11,Loan EMI interest portion 10966,1083.37,Expense,Bank Charges & Interest,Cheque,ICICI Bank
+TXN10364,2025-09-11,Office supplies purchase 77724,5784.02,Expense,Office Supplies,Bank Transfer,Kumar Stationery
+TXN10360,2025-09-12,Courier charg,1216.24,Expense,Shipping & Freight,UPI,BlueDart Express
+TXN10379,2025-09-13,Audit fees payment 19621,4354.98,Expense,Professional Fees,Credit Card,
+TXN90005,2025-09-13,Courier charg,1216.24,Expense,Shipping & Freight,UPI,BlueDart Express
+TXN10383,2025-09-14,Legal and professional fee 56829,2308.67,Expense,Professional Fees,Bank Transfer,
+TXN10331,2025-09-14,Sales invoice INV3331 - Everest Foods,220516.33,Income,Sales Revenue,UPI,
+TXN10338,2025-09-15,Sales invoice INV3338 - Lotus Interiors,11209.75,Income,Sales Revenue,UPI,
+TXN10339,2025-09-15,Sales invoice INV3339 - Ganga Motors,112753.66,Income,Sales Revenue,Bank Transfer,
+TXN10354,2025-09-15,Facebook ads billing 50364,43225.87,Expense,Marketing & Advertising,UPI,Google Ads
+TXN10327,2025-09-15,Sales invoice INV3327 - Everest Foods,139946.11,Income,Sales Revenue,Bank Transfer,
+TXN10326,2025-09-16,Sales invoice INV3326 - Kaveri Mills,56321.68,Income,Sales Revenue,UPI,
+TXN10368,2025-09-16,Travel expenses 92748,27151.33,Expense,Travel & Fuel,Cash,
+TXN10351,2025-09-17,Electricity bill pa,467.51,Expense,Utilities,UPI,Airtel Business
+TXN10353,2025-09-17,Internet and phone bill 52218,391.88,Expense,Utilities,UPI,Airtel Business
+TXN10352,2025-09-18,EB bill service no 81241,18006.14,Expense,Utilities,Bank Transfer,Airtel Business
+TXN10324,2025-09-19,Sales invoice INV3324 - Bharat Textiles,280790.67,Income,Sales Revenue,Bank Transfer,
+TXN10325,2025-09-19,Sales invoice INV3325 - Kaveri Mills,35198.69,Income,Sales Revenue,Cheque,
+TXN10323,2025-09-20,Sales invoice INV3323 - Indus Steel,29325.15,Income,Sales Revenue,UPI,
+TXN10357,2025-09-20,delivery chrgs awb 83917,9896.12,Expense,Shipping & Freight,UPI,Delhivery
+TXN10377,2025-09-20,Machine repair charges 19551,5150.17,Expense,Repairs & Maintenance,Bank Transfer,Ravi Electricals
+TXN10347,2025-09-21,Purchase of raw materi,364804.61,Expense,Cost of Goods Sold,UPI,Coimbatore Traders
+TXN10348,2025-09-22,Salary payment for the month,386935.32,Expense,Salaries & Wages,Credit Card,
+TXN10381,2025-09-23,Audit fees payment 22947,22.17,Expense,Professional Fees,UPI,
+TXN10321,2025-09-24,Sales invoice INV3321 - Harvest Agro,9937.97,Income,Sales Revenue,UPI,
+TXN10371,2025-09-24,Bank charges and interest 60173,3802.77,Expense,Bank Charges & Interest,Bank Transfer,ICICI Bank
+TXN10334,2025-09-25,Sales invoice INV3334 - Deccan Logistics,91315.99,Income,Sales Revenue,Bank Transfer,
+TXN10369,2025-09-25,Diesel purchase ve,25000.0,Expense,Travel & Fuel,Bank Transfer,Indian Oil
+TXN10349,2025-09-25,OFFICE RENT FOR,66747.55,Expense,Rent,UPI,Perundurai Rentals
+TXN10363,2025-09-26,Amazon business order 37681,280.11,Expense,Office Supplies,UPI,Kumar Stationery
+TXN10336,2025-09-27,Sales invoice INV3336 - Chola Hardware,40022.63,Income,Sales Revenue,Bank Transfer,
+TXN10346,2025-09-28,RM purchase bill no 63182,460369.58,Expense,Cost of Goods Sold,Credit Card,Sri Balaji Suppliers
+TXN10365,2025-09-28,Amazon business order 10967,4313.39,Expense,Office Supplies,Bank Transfer,Kumar Stationery
+TXN10329,2025-09-28,Sales invoice INV3329 - Bharat Textiles,193853.18,Income,Sales Revenue,Bank Transfer,
+TXN10376,2025-09-28,Electrical repair work 49985,1904.39,Expense,Repairs & Maintenance,UPI,
+TXN10374,2025-09-29,Bank charges and interest 72638,1166.93,Expense,Bank Charges & Interest,Bank Transfer,ICICI Bank
+TXN10356,2025-09-29,Google Ads spend 77926,11404.68,Expense,Marketing & Advertising,Bank Transfer,Meta Platforms
+TXN10330,2025-09-30,Sales invoice INV3330 - Indus Steel,35849.68,Income,Sales Revenue,Bank Transfer,
+TXN10424,2025-10-01,google ads spend 46975,49791.72,Expense,Marketing & Advertising,UPI,Google Ads
+TXN10398,2025-10-01,Sales invoice INV3398 - Harvest Agro,129559.03,Income,Sales Revenue,Cheque,
+TXN10433,2025-10-01,bill paid,6387.98,Expense,Travel & Fuel,Cash,
+TXN10437,2025-10-02,Loan EMI interest portion 72730,4380.24,Expense,Bank Charges & Interest,UPI,ICICI Bank
+TXN10406,2025-10-03,Sales invoice INV3406 - Ganga Motors,56423.93,Income,Sales Revenue,Bank Transfer,
+TXN10425,2025-10-03,Delivery charges AWB 79817,18853.79,Expense,Shipping & Freight,Cheque,Delhivery
+TXN10447,2025-10-04,Legal and professional fee 83731,1511.03,Expense,Professional Fees,Bank Transfer,
+TXN10415,2025-10-04,RM purchase bill no 31826,69383.32,Expense,Cost of Goods Sold,Bank Transfer,Sri Balaji Suppliers
+TXN10401,2025-10-04,Sales invoice INV3401 - Lotus Interiors,87878.22,Income,Sales Revenue,Cheque,
+TXN10389,2025-10-04,Sales invoice INV3389 - Bharat Textiles,25709.43,Income,Sales Revenue,Bank Transfer,
+TXN10421,2025-10-05,EB bill service no 94912,6991.42,Expense,Utilities,Cheque,Airtel Business
+TXN10410,2025-10-06,Sales invoice INV3410 - Lotus Interiors,134139.96,Income,Sales Revenue,Bank Transfer,
+TXN10445,2025-10-06,Electrical repair work 8604,2908.61,Expense,Repairs & Maintenance,UPI,
+TXN10418,2025-10-06,bill paid,68136.18,Expense,Rent,Bank Transfer,Perundurai Rentals
+TXN10402,2025-10-06,Sales invoice INV3402 - Chola Hardware,20154.03,Income,Sales Revenue,UPI,
+TXN10438,2025-10-07,Bank charges and interest 48197,1198.39,Expense,Bank Charges & Interest,Bank Transfer,ICICI Bank
+TXN10408,2025-10-07,Sales invoice INV3408 - Deccan Logistics,32169.6,Income,Sales Revenue,Cheque,
+TXN10411,2025-10-08,Sales invoice INV3411 - Harvest Agro,64401.07,Income,Sales Revenue,Cheque,
+TXN10451,2025-10-09,Legal and professional fee 80983,10.75,Expense,Professional Fees,Credit Card,
+TXN10440,2025-10-09,Bank charges and int,1041.03,Expense,Bank Charges & Interest,Bank Transfer,ICICI Bank
+TXN10388,2025-10-09,Sales invoice INV3388 - Chola Hardware,28874.62,Income,Sales Revenue,Cheque,
+TXN10420,2025-10-09,Internet and phone bill 41635,841.35,Expense,Utilities,Cash,TNEB
+TXN10392,2025-10-09,Sales invoice INV3392 - Indus Steel,132952.1,Income,Sales Revenue,UPI,
+TXN10432,2025-10-10,Office supplies purchase 69906,4326.9,Expense,Office Supplies,UPI,Kumar Stationery
+TXN10423,2025-10-10,Google Ads spend 87978,14878.32,Expense,Marketing & Advertising,Bank Transfer,Meta Platforms
+TXN10393,2025-10-10,Sales invoice INV3393 - Kaveri Mills,88867.02,Income,Sales Revenue,Bank Transfer,
+TXN10395,2025-10-11,Sales invoice INV3395 - Ganga Motors,512428.03,Income,Sales Revenue,UPI,
+TXN10434,2025-10-11,Fuel expenses for the month 43013,96118.33,Expense,Travel & Fuel,UPI,Indian Oil
+TXN10429,2025-10-11,Office supplies purchase 56209,288.26,Expense,Office Supplies,Bank Transfer,Amazon Business
+TXN10396,2025-10-12,Sales invoice INV3396 - Anand Enterprises,44290.69,Income,Sales Revenue,Bank Transfer,
+TXN10403,2025-10-12,Sales invoice INV3403 - Anand Enterprises,22564.73,Income,Sales Revenue,UPI,
+TXN10422,2025-10-12,FACEBOOK ADS BILLING 64572,39978.07,Expense,Marketing & Advertising,Credit Card,Google Ads
+TXN10449,2025-10-13,Legal and professional fee 61979,118.96,Expense,Professional Fees,Credit Card,
+TXN10417,2025-10-13,Monthly payroll disbursement,386717.29,Expense,Salaries & Wages,Cheque,
+TXN10435,2025-10-16,Fire and burglary policy premium,15239.15,Expense,Insurance,Bank Transfer,HDFC Ergo
+TXN10390,2025-10-16,Sales invoice INV3390 - Bharat Textiles,13613.73,Income,Sales Revenue,Bank Transfer,
+TXN10427,2025-10-17,Tally AMC renewal 41315,24238.56,Expense,Software & Subscriptions,Bank Transfer,Microsoft India
+TXN10400,2025-10-17,Sales invoice INV3400 - Anand Enterprises,58705.53,Income,Sales Revenue,UPI,
+TXN10426,2025-10-19,Delivery charges AWB 27841,43220.58,Expense,Shipping & Freight,UPI,Chennai Freight Lines
+TXN10404,2025-10-20,Sales invoice INV3404 - Chola Hardware,137097.52,Income,Sales Revenue,Bank Transfer,
+TXN10412,2025-10-20,Sales invoice INV3412 - Anand Enterprises,36866.86,Income,Sales Revenue,Bank Transfer,
+TXN10443,2025-10-21,Electrical repair work 76658,3439.02,Expense,Repairs & Maintenance,UPI,Ravi Electricals
+TXN10405,2025-10-21,Sales invoice INV3405 - Harvest Agro,28953.8,Income,Sales Revenue,Bank Transfer,
+TXN10446,2025-10-21,misc expenses,4433.32,Expense,Repairs & Maintenance,Cash,Ravi Electricals
+TXN10414,2025-10-21,Stock purchase - 90117,424537.43,Expense,Cost of Goods Sold,UPI,Coimbatore Traders
+TXN10452,2025-10-22,Audit fees payment 8668,1237.43,Expense,Professional Fees,UPI,
+TXN10441,2025-10-22,Processing fee 78073,614.77,Expense,Bank Charges & Interest,Cash,ICICI Bank
+TXN10409,2025-10-23,Sales invoice INV3409 - Deccan Logistics,20260.56,Income,Sales Revenue,Bank Transfer,
+TXN10436,2025-10-24,Processing fee 54494,2937.43,Expense,Bank Charges & Interest,Bank Transfer,ICICI Bank
+TXN10416,2025-10-24,Goods inward GRN 82126,381665.31,Expense,Cost of Goods Sold,Bank Transfer,Coimbatore Traders
+TXN10399,2025-10-25,Sales invoice INV3399 - Ganga Motors,23591.7,Income,Sales Revenue,UPI,
+TXN10397,2025-10-26,Sales invoice INV3397 - Kaveri Mills,28380.65,Income,Sales Revenue,UPI,
+TXN10439,2025-10-26,Loan EMI interest portion 8080,5947.77,Expense,Bank Charges & Interest,Bank Transfer,ICICI Bank
+TXN10419,2025-10-26,eb bill service no 43145,72830.2,Expense,Utilities,Cheque,Airtel Business
+TXN10428,2025-10-27,Amazon business order 51990,4016.56,Expense,Office Supplies,Bank Transfer,Kumar Stationery
+TXN10384,2025-10-27,Sales invoice INV3384 - Indus Steel,193244.55,Income,Sales Revenue,Bank Transfer,
+TXN10442,2025-10-27,AMC and maintenance 56235,424.04,Expense,Repairs & Maintenance,Bank Transfer,
+TXN10386,2025-10-27,Sales invoice INV3386 - Ganga Motors,124631.67,Income,Sales Revenue,Bank Transfer,
+TXN10448,2025-10-27,Legal and professional fee 13668,2762.69,Expense,Professional Fees,Cash,
+TXN10394,2025-10-28,Sales invoice INV3394 - Kaveri Mills,68887.73,Income,Sales Revenue,Bank Transfer,
+TXN10413,2025-10-28,Stock purchase - 22710,44409.87,Expense,Cost of Goods Sold,UPI,Coimbatore Traders
+TXN10387,2025-10-28,Sales invoice INV3387 - Anand Enterprises,159285.35,Income,Sales Revenue,UPI,
+TXN10450,2025-10-28,CA consultation charges 59167,8456.37,Expense,Professional Fees,Bank Transfer,
+TXN10407,2025-10-29,Sales invoice INV3407 - Indus Steel,66833.08,Income,Sales Revenue,UPI,
+TXN10444,2025-10-29,Machine repair charges 83225,4502.26,Expense,Repairs & Maintenance,Bank Transfer,
+TXN10431,2025-10-29,Stationery and consumables 28373,7620.28,Expense,Office Supplies,Bank Transfer,Kumar Stationery
+TXN10391,2025-10-30,Sales invoice INV3391 - Anand Enterprises,136620.21,Income,Sales Revenue,Bank Transfer,
+TXN10430,2025-10-30,Printing and stationery 71217,482.64,Expense,Office Supplies,Bank Transfer,Kumar Stationery
+TXN10385,2025-10-31,Sales invoice INV3385 - Ganga Motors,8359.76,Income,Sales Revenue,Bank Transfer,
+TXN10509,2025-11-01,AMC AND MAINT 33699,309.81,Expense,Repairs & Maintenance,Bank Transfer,Ravi Electricals
+TXN10493,2025-11-01,OFFICE SUPPLIES PUR,2255.11,Expense,Office Supplies,Bank Transfer,Amazon Business
+TXN10481,2025-11-01,GODOWN RENT PAYMENT 60880,68830.41,Expense,Rent,Cash,Perundurai Rentals
+TXN10494,2025-11-02,Office supplies purchase 45880,1867.04,Expense,Office Supplies,UPI,Amazon Business
+TXN10486,2025-11-02,Facebook ads billing 64567,21931.38,Expense,Marketing & Advertising,Credit Card,Meta Platforms
+TXN10461,2025-11-02,Sales invoice INV3461 - Indus Steel,131128.34,Income,Sales Revenue,Cheque,
+TXN10457,2025-11-02,Sales invoice INV3457 - Lotus Interiors,45580.95,Income,Sales Revenue,Bank Transfer,
+TXN10498,2025-11-02,Stationery and consumables 45573,2733.19,Expense,Office Supplies,UPI,Amazon Business
+TXN10512,2025-11-02,CA consultation charges 73585,4472.18,Expense,Professional Fees,UPI,
+TXN10458,2025-11-02,Sales invoice INV3458 - Chola Hardware,49020.0,Income,Sales Revenue,Bank Transfer,
+TXN10476,2025-11-03,RM pur bill no 54376,205679.07,Expense,Cost of Goods Sold,Credit Card,Sri Balaji Suppliers
+TXN10488,2025-11-03,Instagram campaign spend,8259.15,Expense,Marketing & Advertising,Bank Transfer,Google Ads
+TXN10504,2025-11-05,Bank charges and int,14578.14,Expense,Bank Charges & Interest,Credit Card,ICICI Bank
+TXN10505,2025-11-05,Processing fee 29151,1567.41,Expense,Bank Charges & Interest,Bank Transfer,ICICI Bank
+TXN10513,2025-11-06,CA consultation charges 68944,4261.44,Expense,Professional Fees,Bank Transfer,
+TXN10462,2025-11-06,Sales invoice INV3462 - Everest Foods,44109.57,Income,Sales Revenue,Bank Transfer,
+TXN10514,2025-11-07,CA consultation charges 4973,793.55,Expense,Professional Fees,UPI,
+TXN10478,2025-11-07,general expenses,436245.6,Expense,Cost of Goods Sold,Bank Transfer,Coimbatore Traders
+TXN10497,2025-11-09,Office supplies purchase 9062,1915.75,Expense,Office Supplies,Bank Transfer,Kumar Stationery
+TXN10492,2025-11-09,CRM software monthly fee 2697,23991.96,Expense,Software & Subscriptions,UPI,Microsoft India
+TXN10507,2025-11-09,machine repair c,1870.5,Expense,Repairs & Maintenance,UPI,Ravi Electricals
+TXN10485,2025-11-10,Facebook ads billing 38116,26565.87,Expense,Marketing & Advertising,Bank Transfer,Google Ads
+TXN10465,2025-11-11,Sales invoice INV3465 - Deccan Logistics,55356.28,Income,Sales Revenue,Bank Transfer,
+TXN10484,2025-11-11,PPC ad spend - 16922,3842.44,Expense,Marketing & Advertising,Bank Transfer,Google Ads
+TXN10470,2025-11-11,Sales invoice INV3470 - Ganga Motors,55931.41,Income,Sales Revenue,Cheque,
+TXN10482,2025-11-12,payment made,4164.37,Expense,Utilities,Bank Transfer,TNEB
+TXN10483,2025-11-12,Internet and phone bill 60740,18654.53,Expense,Utilities,Credit Card,TNEB
+TXN10459,2025-11-12,Sales invoice INV3459 - Deccan Logistics,73983.42,Income,Sales Revenue,Cheque,
+TXN10502,2025-11-12,Fuel expenses for the month 66911,179.87,Expense,Travel & Fuel,Bank Transfer,Indian Oil
+TXN10456,2025-11-12,Sales invoice INV3456 - Kaveri Mills,31678.83,Income,Sales Revenue,Bank Transfer,
+TXN10473,2025-11-13,Sales invoice INV3473 - Ganga Motors,6266.28,Income,Sales Revenue,Bank Transfer,
+TXN10503,2025-11-15,Insurance premium payment 60678,15040.47,Expense,Insurance,Bank Transfer,HDFC Ergo
+TXN10510,2025-11-16,Machine repair charges 11981,1172.34,Expense,Repairs & Maintenance,UPI,Ravi Electricals
+TXN10495,2025-11-16,cash payment 4438,2650.56,Expense,Office Supplies,Cheque,Amazon Business
+TXN10455,2025-11-16,Sales invoice INV3455 - Anand Enterprises,19607.44,Income,Sales Revenue,Bank Transfer,
+TXN10508,2025-11-17,Electrical repair work 70291,3346.37,Expense,Repairs & Maintenance,Bank Transfer,Ravi Electricals
+TXN10511,2025-11-18,cash payment 56005,4867.21,Expense,Repairs & Maintenance,UPI,
+TXN10499,2025-11-18,Petrol reimbursement 85349,982.11,Expense,Travel & Fuel,Bank Transfer,Indian Oil
+TXN10496,2025-11-18,Stationery and consumables 13643,2364.13,Expense,Office Supplies,UPI,Amazon Business
+TXN10480,2025-11-18,Staff salary transfer payroll 43147,389858.34,Expense,Salaries & Wages,Credit Card,
+TXN10469,2025-11-19,Sales invoice INV3469 - Indus Steel,23350.7,Income,Sales Revenue,Bank Transfer,
+TXN10463,2025-11-20,Sales invoice INV3463 - Ganga Motors,126045.14,Income,Sales Revenue,Bank Transfer,
+TXN10500,2025-11-21,Fuel expenses for the month 6189,8191.54,Expense,Travel & Fuel,Bank Transfer,
+TXN10474,2025-11-21,Sales invoice INV3474 - Deccan Logistics,327978.84,Income,Sales Revenue,Cheque,
+TXN10453,2025-11-21,Sales invoice INV3453 - Bharat Textiles,262558.95,Income,Sales Revenue,Bank Transfer,
+TXN10490,2025-11-23,Transport charge,8355.91,Expense,Shipping & Freight,Cash,Delhivery
+TXN10475,2025-11-23,Purchase of raw materi,34967.05,Expense,Cost of Goods Sold,Bank Transfer,Reliance Wholesale
+TXN10467,2025-11-24,Sales invoice INV3467 - Chola Hardware,12616.92,Income,Sales Revenue,Bank Transfer,
+TXN10491,2025-11-24,COURIER CHARGES 85625,14894.44,Expense,Shipping & Freight,Credit Card,Delhivery
+TXN10487,2025-11-24,Facebook ads billing 93228,18972.03,Expense,Marketing & Advertising,Bank Transfer,Meta Platforms
+TXN10472,2025-11-25,Sales invoice INV3472 - Chola Hardware,177551.18,Income,Sales Revenue,Bank Transfer,
+TXN10471,2025-11-25,Sales invoice INV3471 - Ganga Motors,19511.37,Income,Sales Revenue,UPI,
+TXN10477,2025-11-25,STOCK PUR -,132477.82,Expense,Cost of Goods Sold,UPI,Sri Balaji Suppliers
+TXN10501,2025-11-26,Diesel purchase vehicle 27513,9240.39,Expense,Travel & Fuel,Cash,
+TXN10479,2025-11-26,Purchase of raw material inv 69388,74631.58,Expense,Cost of Goods Sold,UPI,Reliance Wholesale
+TXN10515,2025-11-27,Legal and professional fee 56646,822.84,Expense,Professional Fees,Credit Card,
+TXN10454,2025-11-27,Sales invoice INV3454 - Indus Steel,242519.94,Income,Sales Revenue,Bank Transfer,
+TXN10464,2025-11-27,Sales invoice INV3464 - Ganga Motors,38103.84,Income,Sales Revenue,Bank Transfer,
+TXN10489,2025-11-27,Transport charges LR 2307,35055.3,Expense,Shipping & Freight,UPI,Chennai Freight Lines
+TXN10468,2025-11-28,Sales invoice INV3468 - Everest Foods,325448.97,Income,Sales Revenue,UPI,
+TXN10466,2025-11-29,Sales invoice INV3466 - Bharat Textiles,65907.54,Income,Sales Revenue,Cheque,
+TXN10506,2025-11-30,Electrical repair work 16538,2113.85,Expense,Repairs & Maintenance,Bank Transfer,Ravi Electricals
+TXN10460,2025-11-30,Sales invoice INV3460 - Deccan Logistics,6497.05,Income,Sales Revenue,Bank Transfer,
+TXN10558,2025-12-01,Delivery charges AWB 28158,19885.93,Expense,Shipping & Freight,Bank Transfer,BlueDart Express
+TXN10550,2025-12-01,Internet and phone bill 89053,10306.69,Expense,Utilities,UPI,TNEB
+TXN10575,2025-12-01,Loan EMI interest portion 8781,262.7,Expense,Bank Charges & Interest,Bank Transfer,ICICI Bank
+TXN10566,2025-12-01,Printing and stationery 25342,164.17,Expense,Office Supplies,UPI,Amazon Business
+TXN10521,2025-12-01,Sales invoice INV3521 - Ganga Motors,88360.65,Income,Sales Revenue,UPI,
+TXN10552,2025-12-01,cash payment 73056,6355.63,Expense,Utilities,Bank Transfer,TNEB
+TXN10571,2025-12-02,Bank charges and interest 79626,3732.73,Expense,Bank Charges & Interest,Cheque,ICICI Bank
+TXN10555,2025-12-03,Facebook ads billing 23388,21997.33,Expense,Marketing & Advertising,Bank Transfer,Google Ads
+TXN10577,2025-12-03,AMC and maintenance 45345,679.66,Expense,Repairs & Maintenance,Credit Card,Ravi Electricals
+TXN10523,2025-12-03,Sales invoice INV3523 - Bharat Textiles,148425.62,Income,Sales Revenue,UPI,
+TXN10574,2025-12-03,Bank charges and interest 73158,1051.19,Expense,Bank Charges & Interest,Bank Transfer,ICICI Bank
+TXN10520,2025-12-04,Sales invoice INV3520 - Harvest Agro,89979.17,Income,Sales Revenue,UPI,
+TXN10528,2025-12-04,Sales invoice INV3528 - Harvest Agro,68419.68,Income,Sales Revenue,Bank Transfer,
+TXN10548,2025-12-04,Monthly payroll disbursement,382808.0,Expense,Salaries & Wages,Bank Transfer,
+TXN10561,2025-12-05,Microsoft 365 subscription 32424,24307.69,Expense,Software & Subscriptions,Credit Card,Tally Solutions
+TXN10569,2025-12-05,Diesel purchase vehicle 20603,599.91,Expense,Travel & Fuel,Bank Transfer,
+TXN10529,2025-12-07,Sales invoice INV3529 - Lotus Interiors,18611.6,Income,Sales Revenue,Bank Transfer,
+TXN10518,2025-12-07,Sales invoice INV3518 - Deccan Logistics,236170.87,Income,Sales Revenue,Cheque,
+TXN10567,2025-12-08,Petrol reimbursement 74526,12783.81,Expense,Travel & Fuel,Bank Transfer,
+TXN10560,2025-12-08,Courier charges 57278,20327.33,Expense,Shipping & Freight,UPI,Delhivery
+TXN10579,2025-12-08,ELECTRICAL REPAIR WORK 66243,490.16,Expense,Repairs & Maintenance,Credit Card,
+TXN10530,2025-12-09,Sales invoice INV3530 - Chola Hardware,46897.1,Income,Sales Revenue,Bank Transfer,
+TXN10570,2025-12-09,Insurance premium payment 78634,14950.95,Expense,Insurance,Bank Transfer,HDFC Ergo
+TXN10524,2025-12-09,Sales invoice INV3524 - Lotus Interiors,17507.62,Income,Sales Revenue,Bank Transfer,
+TXN10544,2025-12-09,Stock purchase,9161.97,Expense,Cost of Goods Sold,UPI,Reliance Wholesale
+TXN10559,2025-12-10,Freight outward bill 99677,16211.68,Expense,Shipping & Freight,Bank Transfer,Chennai Freight Lines
+TXN90003,2025-12-11,Office supplies pur,24.82,Expense,Office Supplies,Credit Card,Amazon Business
+TXN10565,2025-12-11,Office supplies purchase 39684,699.33,Expense,Office Supplies,Bank Transfer,Amazon Business
+TXN10556,2025-12-11,Google Ads spend 34302,3259.55,Expense,Marketing & Advertising,UPI,Meta Platforms
+TXN10562,2025-12-11,Office supplies pur,24.82,Expense,Office Supplies,Credit Card,Amazon Business
+TXN10581,2025-12-11,Machine repair charges 5006,2720.07,Expense,Repairs & Maintenance,UPI,
+TXN10582,2025-12-12,CA consultation charges 94233,10982.53,Expense,Professional Fees,UPI,
+TXN10543,2025-12-13,Goods inward GRN 84148,148001.73,Expense,Cost of Goods Sold,Bank Transfer,Sri Balaji Suppliers
+TXN10563,2025-12-13,printing and stny 30511,2937.17,Expense,Office Supplies,UPI,Kumar Stationery
+TXN10534,2025-12-13,Sales invoice INV3534 - Ganga Motors,45338.08,Income,Sales Revenue,Bank Transfer,
+TXN10539,2025-12-13,Sales invoice INV3539 - Chola Hardware,114327.23,Income,Sales Revenue,Bank Transfer,
+TXN10572,2025-12-13,Bank charges and interest 15304,429.67,Expense,Bank Charges & Interest,Bank Transfer,ICICI Bank
+TXN10527,2025-12-13,Sales invoice INV3527 - Deccan Logistics,2971.69,Income,Sales Revenue,Bank Transfer,
+TXN10533,2025-12-14,Sales invoice INV3533 - Chola Hardware,2349.67,Income,Sales Revenue,Bank Transfer,
+TXN10554,2025-12-15,Google Ads spend 7873,14864.11,Expense,Marketing & Advertising,UPI,Google Ads
+TXN10549,2025-12-15,Monthly rent premises,66648.91,Expense,Rent,Cash,Perundurai Rentals
+TXN10580,2025-12-15,Machine repair charges 35876,2888.07,Expense,Repairs & Maintenance,Credit Card,
+TXN10545,2025-12-16,Purchase of raw material inv 75967,136253.77,Expense,Cost of Goods Sold,Credit Card,Coimbatore Traders
+TXN10516,2025-12-16,Sales invoice INV3516 - Chola Hardware,121889.85,Income,Sales Revenue,Cheque,
+TXN10536,2025-12-17,Sales invoice INV3536 - Deccan Logistics,6871.99,Income,Sales Revenue,UPI,
+TXN10525,2025-12-17,Sales invoice INV3525 - Bharat Textiles,22568.46,Income,Sales Revenue,Bank Transfer,
+TXN10538,2025-12-18,Sales invoice INV3538 - Ganga Motors,46673.74,Income,Sales Revenue,Bank Transfer,
+TXN10546,2025-12-18,Raw material bill 26990,152419.45,Expense,Cost of Goods Sold,Bank Transfer,Reliance Wholesale
+TXN10540,2025-12-18,Sales invoice INV3540 - Lotus Interiors,103966.08,Income,Sales Revenue,Bank Transfer,
+TXN10568,2025-12-19,TRAVEL EXP 51844,2990.7,Expense,Travel & Fuel,UPI,
+TXN10532,2025-12-21,Sales invoice INV3532 - Bharat Textiles,75445.4,Income,Sales Revenue,Bank Transfer,
+TXN10535,2025-12-22,Sales invoice INV3535 - Bharat Textiles,54560.31,Income,Sales Revenue,Bank Transfer,
+TXN10522,2025-12-22,Sales invoice INV3522 - Indus Steel,46218.69,Income,Sales Revenue,Bank Transfer,
+TXN10551,2025-12-22,Power charges 15598,1972.87,Expense,Utilities,Credit Card,Airtel Business
+TXN10564,2025-12-23,Amazon business order 65714,8001.9,Expense,Office Supplies,Bank Transfer,Kumar Stationery
+TXN10578,2025-12-24,Machine repair charges 4200,4955.28,Expense,Repairs & Maintenance,Bank Transfer,Ravi Electricals
+TXN10583,2025-12-24,LEGAL & PROFESSIONAL FEE 19891,1390.48,Expense,Professional Fees,Bank Transfer,
+TXN10542,2025-12-25,cash payment 7021,54015.41,Expense,Cost of Goods Sold,UPI,Sri Balaji Suppliers
+TXN10557,2025-12-25,Instagram campaign spend,25882.09,Expense,Marketing & Advertising,UPI,Meta Platforms
+TXN10517,2025-12-27,Sales invoice INV3517 - Indus Steel,171694.81,Income,Sales Revenue,Cheque,
+TXN10531,2025-12-28,Sales invoice INV3531 - Harvest Agro,21769.03,Income,Sales Revenue,Bank Transfer,
+TXN10576,2025-12-29,AMC and maintenance 98349,133.65,Expense,Repairs & Maintenance,Credit Card,
+TXN10573,2025-12-29,Processing fee 46081,10751.07,Expense,Bank Charges & Interest,Credit Card,ICICI Bank
+TXN10553,2025-12-29,PPC ad spend,666.65,Expense,Marketing & Advertising,Bank Transfer,Google Ads
+TXN10547,2025-12-30,RM PUR BILL NO 5539,447587.19,Expense,Cost of Goods Sold,Bank Transfer,Coimbatore Traders
+TXN10537,2025-12-30,Sales invoice INV3537 - Bharat Textiles,145295.94,Income,Sales Revenue,Bank Transfer,
+TXN10526,2025-12-31,Sales invoice INV3526 - Anand Enterprises,138569.95,Income,Sales Revenue,UPI,
+TXN10541,2025-12-31,Sales invoice INV3541 - Anand Enterprises,176316.36,Income,Sales Revenue,UPI,
+TXN10519,2025-12-31,Sales invoice INV3519 - Bharat Textiles,11637.21,Income,Sales Revenue,Bank Transfer,
+TXN10616,2026-01-01,Electricity bill payment 30398,124.22,Expense,Utilities,Bank Transfer,Airtel Business
+TXN10622,2026-01-01,INSTAGRAM CAMPAIGN SPEND,15602.49,Expense,Marketing & Advertising,Bank Transfer,Google Ads
+TXN10587,2026-01-02,Sales invoice INV3587 - Bharat Textiles,77976.96,Income,Sales Revenue,Bank Transfer,
+TXN10645,2026-01-02,Audit fees payment 30515,734.27,Expense,Professional Fees,Bank Transfer,
+TXN10599,2026-01-02,Sales invoice INV3599 - Harvest Agro,126858.07,Income,Sales Revenue,Bank Transfer,
+TXN10629,2026-01-03,Office supplies pur,2084.22,Expense,Office Supplies,Bank Transfer,Amazon Business
+TXN10619,2026-01-04,PPC ad spend - 95997,9937.64,Expense,Marketing & Advertising,Cash,Meta Platforms
+TXN10621,2026-01-04,Facebook ads billing 60093,2882.42,Expense,Marketing & Advertising,Cheque,Google Ads
+TXN10638,2026-01-04,Loan EMI interest po,1336.43,Expense,Bank Charges & Interest,Cash,ICICI Bank
+TXN10620,2026-01-05,Facebook ads billing 43383,48172.57,Expense,Marketing & Advertising,Bank Transfer,Meta Platforms
+TXN10591,2026-01-05,Sales invoice INV3591 - Indus Steel,137780.2,Income,Sales Revenue,Bank Transfer,
+TXN10625,2026-01-05,Delivery charges AWB 96816,11638.51,Expense,Shipping & Freight,Bank Transfer,BlueDart Express
+TXN10596,2026-01-05,Sales invoice INV3596 - Everest Foods,154138.82,Income,Sales Revenue,Bank Transfer,
+TXN10626,2026-01-06,cash payment 48096,24629.63,Expense,Software & Subscriptions,Bank Transfer,Microsoft India
+TXN10610,2026-01-06,rm purchase bl no 81459,658.33,Expense,Cost of Goods Sold,Bank Transfer,Sri Balaji Suppliers
+TXN10630,2026-01-07,Diesel purchase vehicle 3930,122.81,Expense,Travel & Fuel,UPI,Indian Oil
+TXN10589,2026-01-07,Sales invoice INV3589 - Lotus Interiors,111416.21,Income,Sales Revenue,Bank Transfer,
+TXN10601,2026-01-08,Sales invoice INV3601 - Kaveri Mills,37108.39,Income,Sales Revenue,UPI,
+TXN90004,2026-01-08,Diesel purchase vehicle 3930,122.81,Expense,Travel & Fuel,UPI,Indian Oil
+TXN10600,2026-01-09,Sales invoice INV3600 - Anand Enterprises,116848.49,Income,Sales Revenue,Cheque,
+TXN10633,2026-01-10,Diesel purchase vehicle 1668,1287.58,Expense,Travel & Fuel,UPI,
+TXN10637,2026-01-10,Loan EMI interest portion 13292,2834.97,Expense,Bank Charges & Interest,Cheque,ICICI Bank
+TXN10618,2026-01-10,Electricity bill payment 78103,4742.07,Expense,Utilities,Bank Transfer,Airtel Business
+TXN10606,2026-01-12,Sales invoice INV3606 - Lotus Interiors,109387.42,Income,Sales Revenue,Bank Transfer,
+TXN10634,2026-01-12,Travel expens,5917.75,Expense,Travel & Fuel,Bank Transfer,Indian Oil
+TXN10590,2026-01-13,Sales invoice INV3590 - Harvest Agro,75541.71,Income,Sales Revenue,Bank Transfer,
+TXN10643,2026-01-13,Machine repair charges 55445,1030.15,Expense,Repairs & Maintenance,UPI,
+TXN10593,2026-01-14,Sales invoice INV3593 - Indus Steel,269050.13,Income,Sales Revenue,Bank Transfer,
+TXN10644,2026-01-14,CA consultation charges 40769,845.15,Expense,Professional Fees,UPI,
+TXN10605,2026-01-14,Sales invoice INV3605 - Bharat Textiles,26512.55,Income,Sales Revenue,Bank Transfer,
+TXN10642,2026-01-15,AMC and maintenance 8100,10.26,Expense,Repairs & Maintenance,Bank Transfer,
+TXN10614,2026-01-16,misc expenses,66357.03,Expense,Rent,Credit Card,Perundurai Rentals
+TXN10613,2026-01-17,Monthly payroll disbursement,387531.02,Expense,Salaries & Wages,Cheque,
+TXN10588,2026-01-17,Sales invoice INV3588 - Ganga Motors,10454.93,Income,Sales Revenue,Bank Transfer,
+TXN10612,2026-01-19,goods inward grn 25100,712020.83,Expense,Cost of Goods Sold,Credit Card,Coimbatore Traders
+TXN10639,2026-01-20,Loan EMI interest portion 15927,5134.08,Expense,Bank Charges & Interest,Bank Transfer,ICICI Bank
+TXN10586,2026-01-20,Sales invoice INV3586 - Everest Foods,6000.88,Income,Sales Revenue,UPI,
+TXN10627,2026-01-21,Amazon business order 67283,3468.37,Expense,Office Supplies,Bank Transfer,Amazon Business
+TXN10609,2026-01-21,Stock purchase - 1267,14324.73,Expense,Cost of Goods Sold,Bank Transfer,Sri Balaji Suppliers
+TXN10631,2026-01-21,Fuel expenses for the month 26809,2385.08,Expense,Travel & Fuel,Cheque,
+TXN10595,2026-01-22,Sales invoice INV3595 - Everest Foods,60603.31,Income,Sales Revenue,Bank Transfer,
+TXN10608,2026-01-22,Raw material bill 88011,25399.61,Expense,Cost of Goods Sold,Bank Transfer,Coimbatore Traders
+TXN10597,2026-01-22,Sales invoice INV3597 - Harvest Agro,58632.88,Income,Sales Revenue,UPI,
+TXN10628,2026-01-22,Printing and stationery 7579,35991.62,Expense,Office Supplies,Credit Card,Kumar Stationery
+TXN10602,2026-01-22,Sales invoice INV3602 - Anand Enterprises,137764.99,Income,Sales Revenue,Bank Transfer,
+TXN10584,2026-01-23,Sales invoice INV3584 - Harvest Agro,137513.13,Income,Sales Revenue,Bank Transfer,
+TXN10617,2026-01-23,Power charges 53993,4638.72,Expense,Utilities,Bank Transfer,TNEB
+TXN10646,2026-01-23,Audit fees payment 93509,9019.38,Expense,Professional Fees,Bank Transfer,
+TXN10623,2026-01-24,Courier charges 70985,18435.73,Expense,Shipping & Freight,Bank Transfer,Chennai Freight Lines
+TXN10635,2026-01-25,Fuel exp for the month 53106,2830.95,Expense,Travel & Fuel,UPI,Indian Oil
+TXN10604,2026-01-27,Sales invoice INV3604 - Chola Hardware,78556.67,Income,Sales Revenue,UPI,
+TXN10603,2026-01-27,Sales invoice INV3603 - Ganga Motors,9580.34,Income,Sales Revenue,Bank Transfer,
+TXN10624,2026-01-27,TRANSPORT CHARGES LR 3927,21639.99,Expense,Shipping & Freight,Credit Card,BlueDart Express
+TXN10598,2026-01-28,Sales invoice INV3598 - Ganga Motors,42326.53,Income,Sales Revenue,Bank Transfer,
+TXN10640,2026-01-28,Bank charges and interest 23767,2545.93,Expense,Bank Charges & Interest,Bank Transfer,ICICI Bank
+TXN10636,2026-01-29,Fire and burglary policy premium,15028.25,Expense,Insurance,Credit Card,HDFC Ergo
+TXN10611,2026-01-29,Goods inward GRN 79249,226096.27,Expense,Cost of Goods Sold,Bank Transfer,Coimbatore Traders
+TXN10641,2026-01-29,AMC and maintenance 80192,6554.59,Expense,Repairs & Maintenance,UPI,
+TXN10632,2026-01-29,PETROL REIMBURSEMENT 51023,1747.07,Expense,Travel & Fuel,Bank Transfer,
+TXN10585,2026-01-29,Sales invoice INV3585 - Ganga Motors,26382.84,Income,Sales Revenue,Cheque,
+TXN10607,2026-01-29,Sales invoice INV3607 - Bharat Textiles,32637.53,Income,Sales Revenue,Bank Transfer,
+TXN10592,2026-01-31,Sales invoice INV3592 - Lotus Interiors,19329.64,Income,Sales Revenue,Cheque,
+TXN10615,2026-01-31,Internet & phone bill 64762,9561.34,Expense,Utilities,Bank Transfer,Airtel Business
+TXN10594,2026-01-31,Sales invoice INV3594 - Indus Steel,45096.78,Income,Sales Revenue,Bank Transfer,
+TXN10691,2026-02-02,Amazon business order 65973,10695.09,Expense,Office Supplies,Credit Card,Kumar Stationery
+TXN10668,2026-02-03,Sales invoice INV3668 - Everest Foods,102523.07,Income,Sales Revenue,Cheque,
+TXN10684,2026-02-03,EB bill service no 88339,57586.0,Expense,Utilities,UPI,Airtel Business
+TXN10658,2026-02-03,Sales invoice INV3658 - Ganga Motors,161996.39,Income,Sales Revenue,Bank Transfer,
+TXN10689,2026-02-04,Delivery charges AWB 94188,41614.78,Expense,Shipping & Freight,Credit Card,Delhivery
+TXN10702,2026-02-05,AMC & MAINT 38877,2550.22,Expense,Repairs & Maintenance,UPI,Ravi Electricals
+TXN10657,2026-02-05,Sales invoice INV3657 - Indus Steel,16164.81,Income,Sales Revenue,Bank Transfer,
+TXN10706,2026-02-05,CA consultation charges 31614,766.0,Expense,Professional Fees,Bank Transfer,
+TXN10653,2026-02-05,Sales invoice INV3653 - Deccan Logistics,16620.52,Income,Sales Revenue,UPI,
+TXN10677,2026-02-05,Raw material bill 53340,709810.4,Expense,Cost of Goods Sold,UPI,Reliance Wholesale
+TXN10708,2026-02-06,Legal and profession,313.34,Expense,Professional Fees,Bank Transfer,
+TXN10687,2026-02-07,Facebook ads billing 36891,42112.8,Expense,Marketing & Advertising,Bank Transfer,Meta Platforms
+TXN10676,2026-02-07,Sales invoice INV3676 - Deccan Logistics,79919.29,Income,Sales Revenue,UPI,
+TXN10667,2026-02-07,Sales invoice INV3667 - Harvest Agro,29003.97,Income,Sales Revenue,Bank Transfer,
+TXN10697,2026-02-08,Loan EMI interest portion 17343,613.0,Expense,Bank Charges & Interest,Cheque,ICICI Bank
+TXN10678,2026-02-08,Raw material bill 12457,77687.86,Expense,Cost of Goods Sold,Cheque,Reliance Wholesale
+TXN10681,2026-02-08,EB bill service no 25929,4277.72,Expense,Utilities,Cash,Airtel Business
+TXN10672,2026-02-08,Sales invoice INV3672 - Anand Enterprises,11276.83,Income,Sales Revenue,UPI,
+TXN10663,2026-02-09,Sales invoice INV3663 - Ganga Motors,36577.66,Income,Sales Revenue,Cheque,
+TXN10665,2026-02-09,Sales invoice INV3665 - Ganga Motors,26486.66,Income,Sales Revenue,UPI,
+TXN10666,2026-02-09,Sales invoice INV3666 - Chola Hardware,258848.2,Income,Sales Revenue,Bank Transfer,
+TXN10696,2026-02-10,Loan EMI interest portion 7891,4181.77,Expense,Bank Charges & Interest,Credit Card,ICICI Bank
+TXN10695,2026-02-10,Fire and burglary policy premium,14945.07,Expense,Insurance,Bank Transfer,HDFC Ergo
+TXN10680,2026-02-10,Monthly rent premises,66895.59,Expense,Rent,UPI,Perundurai Rentals
+TXN10655,2026-02-10,Sales invoice INV3655 - Deccan Logistics,96047.91,Income,Sales Revenue,Bank Transfer,
+TXN10701,2026-02-10,AMC and maintenance 89139,1320.07,Expense,Repairs & Maintenance,Bank Transfer,Ravi Electricals
+TXN10664,2026-02-12,Sales invoice INV3664 - Indus Steel,95432.2,Income,Sales Revenue,Bank Transfer,
+TXN10651,2026-02-12,Sales invoice INV3651 - Chola Hardware,45395.38,Income,Sales Revenue,Bank Transfer,
+TXN10707,2026-02-13,Audit fees payment 70084,2748.54,Expense,Professional Fees,UPI,
+TXN10649,2026-02-14,Sales invoice INV3649 - Indus Steel,51293.87,Income,Sales Revenue,Bank Transfer,
+TXN10705,2026-02-15,Legal and professional fee 72446,789.96,Expense,Professional Fees,UPI,
+TXN10650,2026-02-15,Sales invoice INV3650 - Ganga Motors,26265.6,Income,Sales Revenue,Cheque,
+TXN10694,2026-02-15,TRAVEL EXPENSES 83713,5125.49,Expense,Travel & Fuel,Credit Card,
+TXN10688,2026-02-16,Freight outward bill 26413,10549.66,Expense,Shipping & Freight,Bank Transfer,Chennai Freight Lines
+TXN10709,2026-02-16,CA consultation charges 64007,4903.04,Expense,Professional Fees,Bank Transfer,
+TXN10679,2026-02-17,Staff salary transfer payroll 3416,388926.74,Expense,Salaries & Wages,UPI,
+TXN10670,2026-02-17,Sales invoice INV3670 - Anand Enterprises,172369.58,Income,Sales Revenue,Bank Transfer,
+TXN10704,2026-02-17,amc & maintenance 22596,4279.0,Expense,Repairs & Maintenance,Bank Transfer,Ravi Electricals
+TXN10671,2026-02-17,Sales invoice INV3671 - Harvest Agro,44432.68,Income,Sales Revenue,Bank Transfer,
+TXN10654,2026-02-18,Sales invoice INV3654 - Deccan Logistics,20535.76,Income,Sales Revenue,Bank Transfer,
+TXN10685,2026-02-18,Electricity bill payment 11413,1319.21,Expense,Utilities,Bank Transfer,TNEB
+TXN10683,2026-02-18,Internet and phone bill 77281,1799.73,Expense,Utilities,Bank Transfer,TNEB
+TXN10692,2026-02-18,Office supplies purchase 57792,1747.13,Expense,Office Supplies,UPI,Amazon Business
+TXN10699,2026-02-20,Loan EMI interest portion 74512,4155.82,Expense,Bank Charges & Interest,UPI,ICICI Bank
+TXN10669,2026-02-20,Sales invoice INV3669 - Harvest Agro,79225.7,Income,Sales Revenue,Cheque,
+TXN10662,2026-02-20,Sales invoice INV3662 - Bharat Textiles,3493.59,Income,Sales Revenue,Bank Transfer,
+TXN10693,2026-02-20,Fuel expenses for the month 14063,11297.58,Expense,Travel & Fuel,Bank Transfer,Indian Oil
+TXN10703,2026-02-21,machine repair chrgs 85894,866.98,Expense,Repairs & Maintenance,Bank Transfer,
+TXN10661,2026-02-21,Sales invoice INV3661 - Harvest Agro,78331.06,Income,Sales Revenue,Cheque,
+TXN10673,2026-02-21,Sales invoice INV3673 - Chola Hardware,84638.39,Income,Sales Revenue,UPI,
+TXN10698,2026-02-22,Bank charges and interest 31851,244.0,Expense,Bank Charges & Interest,Cash,ICICI Bank
+TXN10652,2026-02-23,Sales invoice INV3652 - Deccan Logistics,12464.83,Income,Sales Revenue,Cheque,
+TXN10690,2026-02-23,ZOHO SUBSCRIPTION RENEWAL,24543.98,Expense,Software & Subscriptions,Bank Transfer,Zoho Corp
+TXN10656,2026-02-25,Sales invoice INV3656 - Indus Steel,5047.84,Income,Sales Revenue,Bank Transfer,
+TXN10686,2026-02-26,PPC ad spend - 50440,36372.65,Expense,Marketing & Advertising,Bank Transfer,Google Ads
+TXN10682,2026-02-26,EB bill service,6684.52,Expense,Utilities,Bank Transfer,Airtel Business
+TXN10674,2026-02-26,Sales invoice INV3674 - Indus Steel,28710.62,Income,Sales Revenue,Bank Transfer,
+TXN10660,2026-02-26,Sales invoice INV3660 - Indus Steel,121337.63,Income,Sales Revenue,Bank Transfer,
+TXN10659,2026-02-27,Sales invoice INV3659 - Indus Steel,62316.18,Income,Sales Revenue,Bank Transfer,
+TXN10700,2026-02-27,other charges,1044.81,Expense,Repairs & Maintenance,Cheque,Ravi Electricals
+TXN10675,2026-02-27,Sales invoice INV3675 - Chola Hardware,329.87,Income,Sales Revenue,Bank Transfer,
+TXN10647,2026-02-27,Sales invoice INV3647 - Everest Foods,29963.08,Income,Sales Revenue,Cheque,
+TXN10648,2026-02-28,Sales invoice INV3648 - Chola Hardware,488.11,Income,Sales Revenue,Bank Transfer,
+TXN10776,2026-03-01,Machine repair charges 74934,7398.55,Expense,Repairs & Maintenance,Bank Transfer,Ravi Electricals
+TXN10734,2026-03-02,Sales invoice INV3734 - Harvest Agro,58767.8,Income,Sales Revenue,Cheque,
+TXN10729,2026-03-02,Sales invoice INV3729 - Lotus Interiors,125406.52,Income,Sales Revenue,Bank Transfer,
+TXN10720,2026-03-02,Sales invoice INV3720 - Ganga Motors,14731.68,Income,Sales Revenue,Cheque,
+TXN10778,2026-03-02,AMC and maintenance 9572,5368.6,Expense,Repairs & Maintenance,UPI,Ravi Electricals
+TXN10715,2026-03-03,Sales invoice INV3715 - Indus Steel,100187.5,Income,Sales Revenue,Cheque,
+TXN10745,2026-03-03,Staff salary transfer payroll 25794,381723.98,Expense,Salaries & Wages,Bank Transfer,
+TXN10770,2026-03-03,Fuel expenses for the month 35598,9094.02,Expense,Travel & Fuel,Bank Transfer,Indian Oil
+TXN10771,2026-03-03,Petrol reimbursement 75474,281.92,Expense,Travel & Fuel,Bank Transfer,Indian Oil
+TXN10774,2026-03-03,Bank charges and interest 17881,8121.92,Expense,Bank Charges & Interest,Cheque,ICICI Bank
+TXN10758,2026-03-03,Courier charges 82396,50137.92,Expense,Shipping & Freight,Bank Transfer,BlueDart Express
+TXN10711,2026-03-03,Sales invoice INV3711 - Chola Hardware,65161.45,Income,Sales Revenue,UPI,
+TXN10775,2026-03-03,Processing fee 55084,3684.03,Expense,Bank Charges & Interest,Cheque,ICICI Bank
+TXN10777,2026-03-04,cash payment 94334,2763.84,Expense,Repairs & Maintenance,Cash,
+TXN10748,2026-03-05,Electricity bl payment 50229,3151.47,Expense,Utilities,Cheque,Airtel Business
+TXN10747,2026-03-05,EB bill service no 19941,2267.36,Expense,Utilities,Bank Transfer,TNEB
+TXN10732,2026-03-05,Sales invoice INV3732 - Chola Hardware,4147.92,Income,Sales Revenue,UPI,
+TXN10728,2026-03-06,Sales invoice INV3728 - Deccan Logistics,130167.05,Income,Sales Revenue,Bank Transfer,
+TXN10719,2026-03-06,Sales invoice INV3719 - Chola Hardware,6619.11,Income,Sales Revenue,Bank Transfer,
+TXN10760,2026-03-07,Printing and stationery 19171,1622.83,Expense,Office Supplies,Bank Transfer,Kumar Stationery
+TXN10727,2026-03-07,Sales invoice INV3727 - Harvest Agro,38164.67,Income,Sales Revenue,Bank Transfer,
+TXN10726,2026-03-08,Sales invoice INV3726 - Kaveri Mills,74894.63,Income,Sales Revenue,Bank Transfer,
+TXN10744,2026-03-08,purchase of raw matl inv 44078,25146.77,Expense,Cost of Goods Sold,Bank Transfer,Coimbatore Traders
+TXN10721,2026-03-08,Sales invoice INV3721 - Indus Steel,1851.89,Income,Sales Revenue,UPI,
+TXN10749,2026-03-09,Internet and phone bill 89338,3972.28,Expense,Utilities,Cheque,Airtel Business
+TXN10773,2026-03-10,Processing fee 99564,870.83,Expense,Bank Charges & Interest,Bank Transfer,ICICI Bank
+TXN10722,2026-03-10,Sales invoice INV3722 - Harvest Agro,26421.39,Income,Sales Revenue,Bank Transfer,
+TXN10723,2026-03-10,Sales invoice INV3723 - Kaveri Mills,439981.89,Income,Sales Revenue,Bank Transfer,
+TXN10710,2026-03-11,Sales invoice INV3710 - Lotus Interiors,37886.78,Income,Sales Revenue,UPI,
+TXN10757,2026-03-11,bill paid,8297.61,Expense,Shipping & Freight,UPI,BlueDart Express
+TXN10717,2026-03-11,Sales invoice INV3717 - Lotus Interiors,7375.78,Income,Sales Revenue,Bank Transfer,
+TXN10763,2026-03-11,cash payment 34853,3926.43,Expense,Office Supplies,Cash,Amazon Business
+TXN10735,2026-03-12,Sales invoice INV3735 - Anand Enterprises,179814.57,Income,Sales Revenue,UPI,
+TXN10718,2026-03-13,Sales invoice INV3718 - Ganga Motors,111331.76,Income,Sales Revenue,Bank Transfer,
+TXN10779,2026-03-13,AMC and maintenance 88382,3940.47,Expense,Repairs & Maintenance,Credit Card,
+TXN10740,2026-03-13,purchase of raw material inv 93143,168219.03,Expense,Cost of Goods Sold,Cheque,Reliance Wholesale
+TXN10751,2026-03-13,internet & phone bill 69708,5780.03,Expense,Utilities,Bank Transfer,Airtel Business
+TXN10736,2026-03-14,Sales invoice INV3736 - Chola Hardware,83345.6,Income,Sales Revenue,UPI,
+TXN10766,2026-03-14,Travel expens,5320.21,Expense,Travel & Fuel,Bank Transfer,Indian Oil
+TXN10780,2026-03-14,Legal and professional fee 30613,299.93,Expense,Professional Fees,Bank Transfer,
+TXN10712,2026-03-14,Sales invoice INV3712 - Kaveri Mills,105332.84,Income,Sales Revenue,Bank Transfer,
+TXN10767,2026-03-17,fuel exp for the month 39915,839.66,Expense,Travel & Fuel,Bank Transfer,Indian Oil
+TXN10746,2026-03-17,Godown rent payment 2793,68289.13,Expense,Rent,Cheque,Perundurai Rentals
+TXN10741,2026-03-18,payment made,15016.97,Expense,Cost of Goods Sold,UPI,Sri Balaji Suppliers
+TXN10755,2026-03-18,Instagram campaign spend,2673.57,Expense,Marketing & Advertising,Bank Transfer,Meta Platforms
+TXN10714,2026-03-19,Sales invoice INV3714 - Indus Steel,81054.23,Income,Sales Revenue,Bank Transfer,
+TXN10764,2026-03-19,Office supplies pur,495.99,Expense,Office Supplies,Bank Transfer,Amazon Business
+TXN10724,2026-03-19,Sales invoice INV3724 - Bharat Textiles,27136.76,Income,Sales Revenue,UPI,
+TXN10743,2026-03-19,RM purchase bill no 93430,288262.52,Expense,Cost of Goods Sold,Bank Transfer,Coimbatore Traders
+TXN10762,2026-03-20,PRINTING AND STATIONERY 52728,5203.17,Expense,Office Supplies,Bank Transfer,Amazon Business
+TXN10754,2026-03-20,Instagram campaign spend,24052.42,Expense,Marketing & Advertising,Bank Transfer,Meta Platforms
+TXN10781,2026-03-20,CA consultation ch,8692.52,Expense,Professional Fees,Bank Transfer,
+TXN10769,2026-03-21,Petrol reimbursement 63481,3895.37,Expense,Travel & Fuel,Bank Transfer,Indian Oil
+TXN10730,2026-03-21,Sales invoice INV3730 - Chola Hardware,4157.43,Income,Sales Revenue,Bank Transfer,
+TXN10756,2026-03-21,PPC ad spend - 47356,29059.85,Expense,Marketing & Advertising,UPI,Meta Platforms
+TXN10752,2026-03-21,Internet and phone bill 25955,940.76,Expense,Utilities,Bank Transfer,TNEB
+TXN10768,2026-03-22,Travel expenses 91805,2362.89,Expense,Travel & Fuel,Bank Transfer,
+TXN10765,2026-03-22,Stationery and consumables 97453,20499.9,Expense,Office Supplies,Bank Transfer,Kumar Stationery
+TXN10725,2026-03-22,Sales invoice INV3725 - Chola Hardware,6542.14,Income,Sales Revenue,Bank Transfer,
+TXN10737,2026-03-23,Sales invoice INV3737 - Chola Hardware,70661.99,Income,Sales Revenue,Bank Transfer,
+TXN10772,2026-03-23,Insurance premium payment 19269,148616.4,Expense,Insurance,Credit Card,HDFC Ergo
+TXN10753,2026-03-24,Instagram campaign spend,13256.85,Expense,Marketing & Advertising,Cash,Meta Platforms
+TXN10731,2026-03-24,Sales invoice INV3731 - Kaveri Mills,115786.45,Income,Sales Revenue,Cheque,
+TXN10738,2026-03-24,Sales invoice INV3738 - Anand Enterprises,68736.13,Income,Sales Revenue,UPI,
+TXN10750,2026-03-25,Power charge,2368.09,Expense,Utilities,Bank Transfer,Airtel Business
+TXN10713,2026-03-26,Sales invoice INV3713 - Anand Enterprises,32967.27,Income,Sales Revenue,Cheque,
+TXN10759,2026-03-29,ZOHO SUBSCR RENEWAL,24130.62,Expense,Software & Subscriptions,Bank Transfer,Zoho Corp
+TXN10739,2026-03-29,Purchase of raw material inv 1199,292883.57,Expense,Cost of Goods Sold,Credit Card,Coimbatore Traders
+TXN10733,2026-03-30,Sales invoice INV3733 - Everest Foods,53219.13,Income,Sales Revenue,Bank Transfer,
+TXN10716,2026-03-30,Sales invoice INV3716 - Deccan Logistics,45638.64,Income,Sales Revenue,Bank Transfer,
+TXN10742,2026-03-30,Goods inward GRN 24702,145805.1,Expense,Cost of Goods Sold,Cheque,Reliance Wholesale
+TXN10761,2026-03-31,sundry expenses,847.36,Expense,Office Supplies,UPI,Kumar Stationery

@@ -1,0 +1,57 @@
+{
+  "n_reviewed": 474,
+  "n_planted": 30,
+  "contamination": 0.06,
+  "z_large": 2.0,
+  "z_weekend": 1.5,
+  "roc_auc": 0.9246246246246246,
+  "flag_rate": 0.06751054852320675,
+  "hybrid": {
+    "precision": 0.75,
+    "recall": 0.8,
+    "f1": 0.7741935483870968,
+    "n_flagged": 32
+  },
+  "rules_only": {
+    "precision": 0.8275862068965517,
+    "recall": 0.8,
+    "f1": 0.8135593220338984,
+    "n_flagged": 29
+  },
+  "model_only": {
+    "precision": 0.7272727272727273,
+    "recall": 0.26666666666666666,
+    "f1": 0.3902439024390244,
+    "n_flagged": 11
+  },
+  "true_positives": 24,
+  "false_positives": 8,
+  "missed": 6,
+  "by_type": [
+    {
+      "anomaly_type": "duplicate",
+      "planted": 14,
+      "caught": 14
+    },
+    {
+      "anomaly_type": "fat_finger",
+      "planted": 4,
+      "caught": 3
+    },
+    {
+      "anomaly_type": "outlier_amount",
+      "planted": 7,
+      "caught": 5
+    },
+    {
+      "anomaly_type": "round_number",
+      "planted": 1,
+      "caught": 1
+    },
+    {
+      "anomaly_type": "weekend_large",
+      "planted": 4,
+      "caught": 1
+    }
+  ]
+}

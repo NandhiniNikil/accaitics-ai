@@ -1,0 +1,7 @@
+description,true_category,predicted,confidence
+adjustment entry 89549,Insurance,Rent,0.436
+other charges,Marketing & Advertising,Utilities,0.273
+general expenses,Utilities,Cost of Goods Sold,0.27
+cash payment 48096,Software & Subscriptions,Cost of Goods Sold,0.262
+cash payment 34853,Office Supplies,Cost of Goods Sold,0.262
+cash payment 4438,Office Supplies,Cost of Goods Sold,0.261

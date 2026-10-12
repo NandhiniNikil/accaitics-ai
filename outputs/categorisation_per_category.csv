@@ -1,0 +1,14 @@
+,precision,recall,f1-score,support
+Insurance,1.0,0.667,0.8,3.0
+Software & Subscriptions,1.0,0.667,0.8,3.0
+Cost of Goods Sold,0.733,1.0,0.846,11.0
+Rent,0.75,1.0,0.857,3.0
+Office Supplies,1.0,0.833,0.909,12.0
+Utilities,0.909,0.909,0.909,11.0
+Marketing & Advertising,1.0,0.917,0.957,12.0
+Bank Charges & Interest,1.0,1.0,1.0,12.0
+Professional Fees,1.0,1.0,1.0,12.0
+Repairs & Maintenance,1.0,1.0,1.0,15.0
+Salaries & Wages,1.0,1.0,1.0,3.0
+Shipping & Freight,1.0,1.0,1.0,9.0
+Travel & Fuel,1.0,1.0,1.0,13.0

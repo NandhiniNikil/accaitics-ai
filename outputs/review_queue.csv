@@ -1,0 +1,33 @@
+transaction_id,date,description,category,vendor,amount,payment_method,signals,anomaly_score,reason,review_status
+TXN10434,2025-10-11,Fuel expenses for the month 43013,Travel & Fuel,Indian Oil,96118.33,UPI,3,0.5984,Large payment posted at a weekend; Far above the usual range for its ledger head; Also flagged as statistically unusual,Pending accountant review
+TXN10419,2025-10-26,eb bill service no 43145,Utilities,Airtel Business,72830.2,Cheque,3,0.5841,Large payment posted at a weekend; Far above the usual range for its ledger head; Also flagged as statistically unusual,Pending accountant review
+TXN10772,2026-03-23,Insurance premium payment 19269,Insurance,HDFC Ergo,148616.4,Credit Card,2,0.6327,Far above the usual range for its ledger head; Also flagged as statistically unusual,Pending accountant review
+TXN10369,2025-09-25,Diesel purchase ve,Travel & Fuel,Indian Oil,25000.0,Bank Transfer,2,0.5912,Suspiciously round amount; Also flagged as statistically unusual,Pending accountant review
+TXN10765,2026-03-22,Stationery and consumables 97453,Office Supplies,Kumar Stationery,20499.9,Bank Transfer,2,0.5451,Large payment posted at a weekend; Far above the usual range for its ledger head,Pending accountant review
+TXN90007,2025-04-25,Internet and phone bill 97180,Utilities,Airtel Business,11441.8,Bank Transfer,2,0.5805,Possible duplicate — same vendor and amount more than once; Also flagged as statistically unusual,Pending accountant review
+TXN10122,2025-05-20,Machine repair charges 79341,Repairs & Maintenance,,4571.09,Cheque,2,0.5772,Possible duplicate — same vendor and amount more than once; Also flagged as statistically unusual,Pending accountant review
+TXN90001,2025-05-30,AMAZON BUSINESS ORDER 42072,Office Supplies,Amazon Business,3833.23,Cheque,2,0.5938,Possible duplicate — same vendor and amount more than once; Also flagged as statistically unusual,Pending accountant review
+TXN10103,2025-05-30,AMAZON BUSINESS ORDER 42072,Office Supplies,Amazon Business,3833.23,Cheque,2,0.5938,Possible duplicate — same vendor and amount more than once; Also flagged as statistically unusual,Pending accountant review
+TXN10033,2025-04-07,STAFF SALARY TRANSFER PAYROLL 75580,Salaries & Wages,,390808.09,UPI,1,0.5844,"Unusual combination of amount, timing and vendor",Pending accountant review
+TXN10288,2025-08-17,Staff salary transfer payroll 41081,Salaries & Wages,,388436.91,UPI,1,0.598,"Unusual combination of amount, timing and vendor",Pending accountant review
+TXN10613,2026-01-17,Monthly payroll disbursement,Salaries & Wages,,387531.02,Cheque,1,0.5821,"Unusual combination of amount, timing and vendor",Pending accountant review
+TXN10684,2026-02-03,EB bill service no 88339,Utilities,Airtel Business,57586.0,UPI,1,0.5084,Far above the usual range for its ledger head,Pending accountant review
+TXN10628,2026-01-22,Printing and stationery 7579,Office Supplies,Kumar Stationery,35991.62,Credit Card,1,0.5071,Far above the usual range for its ledger head,Pending accountant review
+TXN10124,2025-05-13,Legal and professional fee 6138,Professional Fees,,32254.46,Credit Card,1,0.4896,Far above the usual range for its ledger head,Pending accountant review
+TXN10362,2025-09-09,Zoho subscription renewal,Software & Subscriptions,Zoho Corp,25032.93,Cheque,1,0.4537,Far above the usual range for its ledger head,Pending accountant review
+TXN10306,2025-08-24,Travel expenses 87506,Travel & Fuel,,20097.76,Bank Transfer,1,0.5243,Large payment posted at a weekend,Pending accountant review
+TXN10127,2025-05-10,Audit fees payment 36382,Professional Fees,,15547.14,Cheque,1,0.501,Large payment posted at a weekend,Pending accountant review
+TXN10504,2025-11-05,Bank charges and int,Bank Charges & Interest,ICICI Bank,14578.14,Credit Card,1,0.4689,Far above the usual range for its ledger head,Pending accountant review
+TXN10312,2025-08-30,Loan EMI interest portion 10287,Bank Charges & Interest,ICICI Bank,14178.37,Bank Transfer,1,0.5512,Large payment posted at a weekend,Pending accountant review
+TXN10054,2025-04-12,Bank charges and interest 33905,Bank Charges & Interest,ICICI Bank,12418.8,Bank Transfer,1,0.5079,Large payment posted at a weekend,Pending accountant review
+TXN10036,2025-04-23,Internet and phone bill 97180,Utilities,Airtel Business,11441.8,Bank Transfer,1,0.5757,Possible duplicate — same vendor and amount more than once,Pending accountant review
+TXN10184,2025-06-07,Processing fee 15129,Bank Charges & Interest,ICICI Bank,9788.78,Bank Transfer,1,0.5065,Large payment posted at a weekend,Pending accountant review
+TXN90002,2025-05-22,Machine repair charges 79341,Repairs & Maintenance,,4571.09,Cheque,1,0.5688,Possible duplicate — same vendor and amount more than once,Pending accountant review
+TXN10360,2025-09-12,Courier charg,Shipping & Freight,BlueDart Express,1216.24,UPI,1,0.6267,Possible duplicate — same vendor and amount more than once,Pending accountant review
+TXN90005,2025-09-13,Courier charg,Shipping & Freight,BlueDart Express,1216.24,UPI,1,0.6481,Possible duplicate — same vendor and amount more than once,Pending accountant review
+TXN10253,2025-07-22,Legal and professional fee 88588,Professional Fees,,1175.01,Bank Transfer,1,0.5859,Possible duplicate — same vendor and amount more than once,Pending accountant review
+TXN90006,2025-07-23,Legal and professional fee 88588,Professional Fees,,1175.01,Bank Transfer,1,0.5794,Possible duplicate — same vendor and amount more than once,Pending accountant review
+TXN10630,2026-01-07,Diesel purchase vehicle 3930,Travel & Fuel,Indian Oil,122.81,UPI,1,0.6475,Possible duplicate — same vendor and amount more than once,Pending accountant review
+TXN90004,2026-01-08,Diesel purchase vehicle 3930,Travel & Fuel,Indian Oil,122.81,UPI,1,0.6402,Possible duplicate — same vendor and amount more than once,Pending accountant review
+TXN90003,2025-12-11,Office supplies pur,Office Supplies,Amazon Business,24.82,Credit Card,1,0.6892,Possible duplicate — same vendor and amount more than once,Pending accountant review
+TXN10562,2025-12-11,Office supplies pur,Office Supplies,Amazon Business,24.82,Credit Card,1,0.6892,Possible duplicate — same vendor and amount more than once,Pending accountant review
