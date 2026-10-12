@@ -153,6 +153,33 @@ def _tiny():
     })
 
 
+def test_monthly_emits_no_warnings_on_zero_revenue():
+    """
+    REGRESSION TEST for a portability bug.
+
+    monthly() used `.replace(0, pd.NA) ... .fillna(0.0)` to guard the margin
+    division. That pushes the column to object dtype and back, which pandas 2.x
+    warns about on the downcast. It raised nothing on the version this was
+    developed against and only appeared when it was run on another machine.
+    """
+    import warnings
+    df = _tiny().copy()
+    df.loc[df["txn_type"] == "Income", "txn_type"] = "Expense"   # zero revenue
+    with warnings.catch_warnings():
+        warnings.simplefilter("error")
+        m = acc.monthly(df)
+    assert (m["margin_pct"] == 0.0).all()
+    assert not m["margin_pct"].isna().any()
+
+
+def test_margin_is_zero_not_nan_when_a_month_has_no_revenue():
+    df = _tiny().copy()
+    df.loc[0, "txn_type"] = "Expense"        # April now has no income
+    m = acc.monthly(df).set_index("month")
+    assert m.loc["2025-04", "margin_pct"] == 0.0
+    assert m.loc["2025-05", "margin_pct"] > 0
+
+
 def test_worked_example_totals():
     """Revenue 250,000 − expenses 30,000 = profit 220,000, margin 88%."""
     t = acc.totals(_tiny())

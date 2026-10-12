@@ -10,6 +10,10 @@ questions about the data.
 Built to combine accounting knowledge (B.Com, Tally, QuickBooks, Excel, Power BI,
 SQL) with practical machine learning.
 
+![Financial dashboard](screenshots/1_financial.png)
+
+![Transactions flagged for review](screenshots/3_review.png)
+
 ```bash
 pip install -r requirements.txt
 python run_all.py          # generate data, train, evaluate, test — ~20 seconds

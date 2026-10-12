@@ -15,6 +15,7 @@ from __future__ import annotations
 from dataclasses import dataclass, field
 from pathlib import Path
 
+import numpy as np
 import pandas as pd
 
 REQUIRED = ["transaction_id", "date", "description", "amount", "txn_type"]
@@ -246,7 +247,14 @@ def monthly(df: pd.DataFrame) -> pd.DataFrame:
         if c not in g.columns:
             g[c] = 0.0
     g["profit"] = g["revenue"] - g["expenses"]
-    g["margin_pct"] = (g["profit"] / g["revenue"].replace(0, pd.NA) * 100).fillna(0.0)
+    # Guard the divide-by-zero with an explicit mask rather than
+    # .replace(0, pd.NA) ... .fillna(0.0). That pattern pushes the column to
+    # object dtype and back, which pandas 2.x warns about on the downcast —
+    # a warning that did not appear on the version this was written against
+    # and only surfaced when someone ran it on their own machine.
+    g["margin_pct"] = np.where(g["revenue"] != 0,
+                               g["profit"] / g["revenue"].where(g["revenue"] != 0, 1) * 100,
+                               0.0)
     g = g.reset_index()
     g["month"] = g["month"].astype(str)
     return g[["month", "revenue", "expenses", "profit", "margin_pct"]]
